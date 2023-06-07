@@ -1,0 +1,4497 @@
+[
+  {
+    "thumbnail": "https://image.nutrione.co.kr/upload/item/1000094310/1000094310_ITEM2022111583095.png",
+    "descriptionImage": "https://quabdfrttgah10486813.cdn.ntruss.com/nutrione/res/itemdtl/1000094310/img_visual.png",
+    "title": "피로한 눈엔 차즈기",
+    "content": "365일 피로가 누적된 눈에게 주는 편안한 휴식 타임",
+    "expiration": "2025-08-03",
+    "brand": "NutrioneLife",
+    "sales": 23,
+    "price": 59000,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 20,
+    "discountPrice": 47200,
+    "categories": [
+      {
+        "categoryName": "눈건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "비타민 A",
+        "volume": "0.7mg"
+      },
+      {
+        "ingredient": "루테인",
+        "volume": "22.3mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://farmntop.co.kr/web/product/big/202106/a8d061f0846a962ba01c09e8bcd64a48.jpg",
+    "descriptionImage": "https://media97.imghost.cafe24.com/6647.jpg",
+    "title": "인지력에 좋은 포스파티딜세린",
+    "content": "생생하고 또렷한 인지력을 위해!",
+    "expiration": "2025-03-21",
+    "brand": "FarmAndTop",
+    "sales": 152,
+    "price": 50000,
+    "capacity": 60,
+    "servingSize": 1,
+    "discountRate": 20,
+    "discountPrice": 40000,
+    "categories": [
+      {
+        "categoryName": "뇌_건강"
+      },
+      {
+        "categoryName": "피부"
+      },
+      {
+        "categoryName": "항산화"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "비타민E",
+        "volume": "11mg"
+      },
+      {
+        "ingredient": "포스파티딜세린",
+        "volume": "300mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://farmntop.co.kr/web/product/big/202012/ae1d94e451bc9415cc2575ebcbf37329.jpg",
+    "descriptionImage": "https://m2-cdn.11st.co.kr/products/4941026524/view-desc/m2x/mixed/resource/http://minscorp.godohosting.com/mins/D0032_.jpg",
+    "title": "눈에 좋은 루테인 지아잔틴",
+    "content": "황반의 중심부와 주변부까지 빈틈없이!",
+    "expiration": "2024-12-12",
+    "brand": "FarmAndTop",
+    "sales": 100,
+    "price": 35000,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 25,
+    "discountPrice": 21000,
+    "categories": [
+      {
+        "categoryName": "눈_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "비타민B2",
+        "volume": "0.42mg"
+      },
+      {
+        "ingredient": "비타민B1",
+        "volume": "0.36mg"
+      },
+      {
+        "ingredient": "아연",
+        "volume": "2.6mg"
+      },
+      {
+        "ingredient": "루테인",
+        "volume": "9.1mg"
+      },
+      {
+        "ingredient": "지아잔틴",
+        "volume": "0.91mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shop-phinf.pstatic.net/20220610_94/1654838916192NkwGj_JPEG/55974695916390095_48464145.jpg?type=o1000",
+    "descriptionImage": "https://shop-phinf.pstatic.net/20220407_216/1649280966154I2W5U_JPEG/어골칼슘_220404_860.jpg?type=w860",
+    "title": "뼈건강마스터 어골칼슘 뼈에좋은 비타민D",
+    "content": "뼈 건강을 위한 올바른 습관",
+    "expiration": "2025-02-01",
+    "brand": "NaturalLife",
+    "sales": 19,
+    "price": 36000,
+    "capacity": 120,
+    "servingSize": 2,
+    "discountRate": 20,
+    "discountPrice": 28800,
+    "categories": [
+      {
+        "categoryName": "관절_뼈_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "칼슘",
+        "volume": "350mg"
+      },
+      {
+        "ingredient": "폴리마글루탐산",
+        "volume": "60mg"
+      },
+      {
+        "ingredient": "망간",
+        "volume": "3mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://image.nutrione.co.kr/upload/item/1000076144/1000076144_ITEM2022070545045.png",
+    "descriptionImage": "https://quabdfrttgah10486813.cdn.ntruss.com/nutrione/data/editor/goods/210928/a25b623008a9518018865e10e7cdc811_111314.png",
+    "title": "면역업 프로폴리스",
+    "content": "인지력 개선과 항산화를 한번에!",
+    "expiration": "2028-05-03",
+    "brand": "NutrioneLife",
+    "sales": 9,
+    "price": 24900,
+    "capacity": 30,
+    "servingSize": 2,
+    "discountRate": 10,
+    "discountPrice": 22410,
+    "categories": [
+      {
+        "categoryName": "뇌_건강"
+      },
+      {
+        "categoryName": "항산화"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "비타민 E",
+        "volume": "11mg"
+      },
+      {
+        "ingredient": "포스파티딜세린",
+        "volume": "300mg"
+      },
+      {
+        "ingredient": "지방",
+        "volume": "1.5g"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://farmntop.co.kr/web/product/big/202203/a400e44310cca2503ac090b2fead48fb.jpg",
+    "descriptionImage": "https://ssl.pstatic.net/imgshopping/spec/315/04/09/31504093618_0_20220329105416.jpg",
+    "title": "리얼 어골칼슘 비타민D 폴리감마글루탐산",
+    "content": "우리 가족 뼈 건겅과 칼슘 흡수 UP!",
+    "expiration": "2024-07-09",
+    "brand": "FarmAndTop",
+    "sales": 103,
+    "price": 32000,
+    "capacity": 60,
+    "servingSize": 1,
+    "discountRate": 0,
+    "discountPrice": 32000,
+    "categories": [
+      {
+        "categoryName": "관절_뼈_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "나트륨",
+        "volume": "10mg"
+      },
+      {
+        "ingredient": "비타민D",
+        "volume": "10mg"
+      },
+      {
+        "ingredient": "칼슘",
+        "volume": "300mg"
+      },
+      {
+        "ingredient": "비타민k",
+        "volume": "70mg"
+      },
+      {
+        "ingredient": "폴리감마글루탐산",
+        "volume": "70mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://farmntop.co.kr/web/product/big/202103/108ece6305937729911b08de5eb3e9d1.jpg",
+    "descriptionImage": "https://m2-cdn.11st.co.kr/products/4927967740/view-desc/m2x/mixed/resource/http://minscorp.godohosting.com/mins/D0037_.jpg",
+    "title": "리얼 마그네슘 비타민D",
+    "content": "하루1정으로 마그네슘과 비타민 5종 섭취를 동시에!",
+    "expiration": "2025-02-11",
+    "brand": "FarmAndTop",
+    "sales": 168,
+    "price": 37000,
+    "capacity": 120,
+    "servingSize": 1,
+    "discountRate": 0,
+    "discountPrice": 37000,
+    "categories": [
+      {
+        "categoryName": "관절_뼈_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "비타민D",
+        "volume": "10mg"
+      },
+      {
+        "ingredient": "비타민B1",
+        "volume": "1.2mg"
+      },
+      {
+        "ingredient": "비타민B2",
+        "volume": "1.4mg"
+      },
+      {
+        "ingredient": "마그네슘",
+        "volume": "315mg"
+      }
+    ],
+    "starAvg": 5
+  },
+  {
+    "thumbnail": "https://shop-phinf.pstatic.net/20220329_279/1648545705134FP5Cs_JPEG/49681539956654763_1878438957.jpg?type=m1000",
+    "descriptionImage": "https://shop-phinf.pstatic.net/20220616_239/1655337701407BBLhf_JPEG/얼라이브_원스데일리_포우먼_860.jpeg?type=w860",
+    "title": "얼라이브 원스데일리 포우먼",
+    "content": "한 알에 꽉 채운 여성 종합 비타민",
+    "expiration": "2023-07-01",
+    "brand": "NaturalLife",
+    "sales": 85,
+    "price": 18000,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 50,
+    "discountPrice": 9000,
+    "categories": [
+      {
+        "categoryName": "피로"
+      },
+      {
+        "categoryName": "혈행개선"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "비타민 B1",
+        "volume": "30mg"
+      },
+      {
+        "ingredient": "비타민 B2",
+        "volume": "25mg"
+      },
+      {
+        "ingredient": "나이아신",
+        "volume": "40mg"
+      },
+      {
+        "ingredient": "판토텐산",
+        "volume": "60mg"
+      },
+      {
+        "ingredient": "비오틴",
+        "volume": "0.2mg"
+      }
+    ],
+    "starAvg": 5
+  },
+  {
+    "thumbnail": "https://farmntop.co.kr/web/product/big/202210/8589a3eae793977001d1bd0a6e164d98.jpg",
+    "descriptionImage": "https://cdn.011st.com/11dims/thumbnail/11src/editorImg/20220729/13402037/1659021240634_E.jpg",
+    "title": "밀크씨슬 실리마린",
+    "content": "침묵의 장기'간', 평소 관리가 핵심입니다!",
+    "expiration": "2024-06-09",
+    "brand": "FarmAndTop",
+    "sales": 156,
+    "price": 28900,
+    "capacity": 120,
+    "servingSize": 2,
+    "discountRate": 0,
+    "discountPrice": 28900,
+    "categories": [
+      {
+        "categoryName": "간_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "실리마린",
+        "volume": "130mg"
+      },
+      {
+        "ingredient": "비타민B1",
+        "volume": "0.42mg"
+      },
+      {
+        "ingredient": "비타민B2",
+        "volume": "0.45mg"
+      },
+      {
+        "ingredient": "나이아신",
+        "volume": "4.93mg"
+      },
+      {
+        "ingredient": "아연",
+        "volume": "2.82mg"
+      }
+    ],
+    "starAvg": 2.5
+  },
+  {
+    "thumbnail": "https://farmntop.co.kr/web/product/big/202103/4ffa91a2169597026659f2f52fd62b35.jpg",
+    "descriptionImage": "https://jumbbang48.hgodo.com/1730/17300025.jpg",
+    "title": "식물성 rTG 오메가3",
+    "content": "항산화를 위한 소중한 자연의 선물!",
+    "expiration": "2025-05-02",
+    "brand": "FarmAndTop",
+    "sales": 180,
+    "price": 50000,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 15,
+    "discountPrice": 42500,
+    "categories": [
+      {
+        "categoryName": "혈행개선"
+      },
+      {
+        "categoryName": "눈_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "지방",
+        "volume": "1g"
+      },
+      {
+        "ingredient": "EPA와 DHA의 합",
+        "volume": "600mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "http://www.nzomall.com/shopimages/nzomall/005001000012.jpg?1640323846",
+    "descriptionImage": "http://nzoriginkr.cafe24.com/spec/nzorigin/nz_sleepmate_30t_all.jpg",
+    "title": "밸런스 스피루리나 1100",
+    "content": "하와이산 스피루리나 분말 99%, 엽록소 총 11mg 함유",
+    "expiration": "2029-09-11",
+    "brand": "nzOrigin",
+    "sales": 245,
+    "price": 38500,
+    "capacity": 120,
+    "servingSize": 2,
+    "discountRate": 0,
+    "discountPrice": 38500,
+    "categories": [
+      {
+        "categoryName": "피부"
+      },
+      {
+        "categoryName": "항산화"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "단백질",
+        "volume": "1g"
+      },
+      {
+        "ingredient": "나트륨",
+        "volume": "10mg"
+      },
+      {
+        "ingredient": "엽록소",
+        "volume": "13.4mg"
+      }
+    ],
+    "starAvg": 4
+  },
+  {
+    "thumbnail": "https://image.nutrione.co.kr/upload/item/1000001189/1000001189_ITEM.png",
+    "descriptionImage": "https://quabdfrttgah10486813.cdn.ntruss.com/nutrione/data/editor/goods/211221/3a63f2f42ae766b51890636c3cffe592_154126.jpg",
+    "title": "더 건강한 대마종자유 100",
+    "content": "캐나다 '혈통 종자'를 사용한 100% 식물성 햄프씨드 오일",
+    "expiration": "2024-04-13",
+    "brand": "NutrioneLife",
+    "sales": 49,
+    "price": 22900,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 0,
+    "discountPrice": 22900,
+    "categories": [
+      {
+        "categoryName": "기타"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "지방",
+        "volume": "24g"
+      },
+      {
+        "ingredient": "포화지방",
+        "volume": "3.33g"
+      }
+    ],
+    "starAvg": 4.125
+  },
+  {
+    "thumbnail": "https://shop-phinf.pstatic.net/20221019_16/16661684933366q5A0_JPEG/67304328157594333_1140576768.jpg?type=o1000",
+    "descriptionImage": "https://shop-phinf.pstatic.net/20220504_294/1651651114696uB6Nh_JPEG/상세소버스_신바이오틱스.jpg?type=w860",
+    "title": "소버스 장건강엔 신바이오틱스",
+    "content": "590억 유산균을 투입해 100억 유산균을 유통기한 내 생생하게 보장합니다.",
+    "expiration": "2024-03-08",
+    "brand": "SOLGAR",
+    "sales": 513,
+    "price": 40000,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 15,
+    "discountPrice": 34000,
+    "categories": [
+      {
+        "categoryName": "장_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "탄수화물",
+        "volume": "2g"
+      },
+      {
+        "ingredient": "락추오스",
+        "volume": "650mg"
+      },
+      {
+        "ingredient": "프로바이오틱스",
+        "volume": "100억 CFU"
+      }
+    ],
+    "starAvg": 4.2
+  },
+  {
+    "thumbnail": "https://image.nutrione.co.kr/upload/item/1000108220/1000108220_ITEM2022110234549.png",
+    "descriptionImage": "https://image.nutrione.co.kr/upload/item/1000108220/1000108220_ITEM2022110234549.png",
+    "title": "장용성 알티지오메가3 프로",
+    "content": "장용성 캡슐로 어취 없이 혈행개선 뼈건강 항산화를 한 번에",
+    "expiration": "2024-05-19",
+    "brand": "NutrioneLife",
+    "sales": 10,
+    "price": 19900,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 0,
+    "discountPrice": 19900,
+    "categories": [
+      {
+        "categoryName": "혈행개선"
+      },
+      {
+        "categoryName": "관절_뼈_건강"
+      },
+      {
+        "categoryName": "항산화"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "EPA & DHA",
+        "volume": "600mg"
+      },
+      {
+        "ingredient": "비타민 D",
+        "volume": "0.01mg"
+      },
+      {
+        "ingredient": "비타민 E",
+        "volume": "11mg"
+      },
+      {
+        "ingredient": "지방",
+        "volume": "1g"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shopping-phinf.pstatic.net/main_1302432/13024322469.20210218133929.jpg?type=f640",
+    "descriptionImage": "https://shopping-phinf.pstatic.net/20220803_19_6/063c1e0b-9f5f-4528-b024-f717e7329ffa/-831179826.jpg",
+    "title": "루테인11",
+    "content": "11가지 복합 기능성",
+    "expiration": "2025-07-11",
+    "brand": "GNM",
+    "sales": 21,
+    "price": 27000,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 0,
+    "discountPrice": 27000,
+    "categories": [
+      {
+        "categoryName": "눈_건강"
+      },
+      {
+        "categoryName": "항산화"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "비타인E",
+        "volume": "11mg"
+      },
+      {
+        "ingredient": "나이아신",
+        "volume": "15mg"
+      },
+      {
+        "ingredient": "아연",
+        "volume": "8.5mg"
+      },
+      {
+        "ingredient": "루테인",
+        "volume": "20mg"
+      },
+      {
+        "ingredient": "망간",
+        "volume": "3mg"
+      }
+    ],
+    "starAvg": 5
+  },
+  {
+    "thumbnail": "https://farmntop.co.kr/web/product/big/202210/dfd1406e707957e968d2b42fdc2f6b38.jpg",
+    "descriptionImage": "https://jumbbang48.hgodo.com/1730/17300026.jpg",
+    "title": "오늘 굿잠환",
+    "content": "건강한 수면과 안정된 마음을 위한 멀티 솔루션!",
+    "expiration": "2024-02-11",
+    "brand": "FarmAndTop",
+    "sales": 200,
+    "price": 18900,
+    "capacity": 15,
+    "servingSize": 1,
+    "discountRate": 0,
+    "discountPrice": 18900,
+    "categories": [
+      {
+        "categoryName": "피로"
+      },
+      {
+        "categoryName": "기타"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "테아닌",
+        "volume": "10mg"
+      },
+      {
+        "ingredient": "마그네슘",
+        "volume": "1.5mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shop-phinf.pstatic.net/20221019_86/1666168148993H8hSS_JPEG/67303991705950648_1312472154.jpg?type=o1000",
+    "descriptionImage": "https://shop-phinf.pstatic.net/20211123_193/1637633353084Kk7i4_JPEG/collagen.new.jpg?type=w860",
+    "title": "소버스 참 어린 콜라겐",
+    "content": "식약처 기준 최대 함량 피쉬 콜라겐펩타이드",
+    "expiration": "2023-05-08",
+    "brand": "SOLGAR",
+    "sales": 58,
+    "price": 50000,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 30,
+    "discountPrice": 23000,
+    "categories": [
+      {
+        "categoryName": "피부"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "탄수화물",
+        "volume": "2g"
+      },
+      {
+        "ingredient": "단백질",
+        "volume": "3g"
+      },
+      {
+        "ingredient": "Gly-Pro-Val-Pro-Ser",
+        "volume": "2.71mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://image.nutrione.co.kr/upload/item/1000000677/1000000677_ITEM.png",
+    "descriptionImage": "https://shop-phinf.pstatic.net/20210707_60/1625637694340v8ju7_JPEG/210513_%EC%8A%A4%ED%94%BC%EB%A3%A8%EB%A6%AC%EB%82%98_%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80_v4_%EC%B5%9C%EC%A2%85%EB%B3%B8.jpg?type=w860",
+    "title": "캘리포니아 스피루리나 알파",
+    "content": "튼튼한 피부 건강과 풍부한 영양소",
+    "expiration": "2024-01-02",
+    "brand": "NutrioneLife",
+    "sales": 11,
+    "price": 46600,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 30,
+    "discountPrice": 32620,
+    "categories": [
+      {
+        "categoryName": "피부"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "비타민 B1",
+        "volume": "0.38mg"
+      },
+      {
+        "ingredient": "비타민 B2",
+        "volume": "0.51mg"
+      },
+      {
+        "ingredient": "나이아신",
+        "volume": "4.93mg"
+      },
+      {
+        "ingredient": "판토텐산",
+        "volume": "1.76mg"
+      },
+      {
+        "ingredient": "비오틴",
+        "volume": "0.045mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://farmntop.co.kr/web/product/big/202210/8a2cf1c3dbb5b451dbf72135e466e7cc.jpg",
+    "descriptionImage": "https://media97.imghost.cafe24.com/6644.jpg",
+    "title": "뼈에 좋은 해조칼슘",
+    "content": "건강한 뼈와 치아를 위한 굿 초이스- 뼈 건강 지킴이!",
+    "expiration": "2027-03-11",
+    "brand": "FarmAndTop",
+    "sales": 30,
+    "price": 30000,
+    "capacity": 120,
+    "servingSize": 2,
+    "discountRate": 0,
+    "discountPrice": 30000,
+    "categories": [
+      {
+        "categoryName": "관절_뼈_건강"
+      },
+      {
+        "categoryName": "혈행개선"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "탄수화물",
+        "volume": "2g"
+      },
+      {
+        "ingredient": "칼슘",
+        "volume": "700mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shop-phinf.pstatic.net/20220126_47/16431832759675RPLA_JPEG/44319164194023892_1487024657.jpg?type=o1000",
+    "descriptionImage": "https://shop-phinf.pstatic.net/20200319_69/1584606459465x9inN_JPEG/SUPER-GLA-300MG-BORAGE-OIL.jpg?type=w860",
+    "title": "슈퍼 GLA 감마리놀렌산 보라지꽃 종자유",
+    "content": "저온압착 추출 방식으로! 1캡슐당 감마리놀렌산 300mg 함유",
+    "expiration": "2024-03-19",
+    "brand": "SOLGAR",
+    "sales": 43,
+    "price": 72000,
+    "capacity": 60,
+    "servingSize": 1,
+    "discountRate": 60,
+    "discountPrice": 28800,
+    "categories": [
+      {
+        "categoryName": "혈행개선"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "지방",
+        "volume": "1.5g"
+      },
+      {
+        "ingredient": "감마리놀렌산",
+        "volume": "300mg"
+      }
+    ],
+    "starAvg": 5
+  },
+  {
+    "thumbnail": "https://shop-phinf.pstatic.net/20220218_235/1645154293797Bp799_JPEG/46290127594911330_999305827.jpg?type=o1000",
+    "descriptionImage": "https://shop-phinf.pstatic.net/20220218_227/1645154499019IgWcz_JPEG/솔가-멀티빌리언.jpg?type=w860",
+    "title": "멀티빌리언 도필루스 프로바이오틱스",
+    "content": "장까지 살아가는 50억마리 유당 무함유 유산균",
+    "expiration": "2024-10-03",
+    "brand": "SOLGAR",
+    "sales": 27,
+    "price": 84000,
+    "capacity": 60,
+    "servingSize": 1,
+    "discountRate": 25,
+    "discountPrice": 63000,
+    "categories": [
+      {
+        "categoryName": "장_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "프로바이오틱스",
+        "volume": "50억 CFU"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://image.nutrione.co.kr/upload/item/1000001047/1000001047_ITEM.png",
+    "descriptionImage": "https://quabdfrttgah10486813.cdn.ntruss.com/nutrione/data/editor/goods/210512/3250098831721286ec2c250a22657934_143542.jpg",
+    "title": "식물성 알티지 오메가3",
+    "content": "중금속, 해양오염으로 부터 안전한 식물성 오메가3 100%",
+    "expiration": "2023-05-30",
+    "brand": "NutrioneLife",
+    "sales": 39,
+    "price": 39900,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 0,
+    "discountPrice": 39900,
+    "categories": [
+      {
+        "categoryName": "눈_건강"
+      },
+      {
+        "categoryName": "관절_뼈_건강"
+      },
+      {
+        "categoryName": "혈행개선"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "지방",
+        "volume": "1g"
+      },
+      {
+        "ingredient": "비타민 D",
+        "volume": "0.01g"
+      },
+      {
+        "ingredient": "EPA & DHA",
+        "volume": "600mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://farmntop.co.kr/web/product/big/202201/4eed0b54a18d232978d269ed655583b3.jpg",
+    "descriptionImage": "https://ssl.pstatic.net/imgshopping/spec/327/31/85/32731853619_0_20220603162744.jpg",
+    "title": "칼슘 마그네슘 비타민D 아연",
+    "content": "칼슘과 마그네슘의 2:1 배합 & 스마트한 4중 기능성",
+    "expiration": "2027-02-13",
+    "brand": "FarmAndTop",
+    "sales": 428,
+    "price": 38000,
+    "capacity": 120,
+    "servingSize": 2,
+    "discountRate": 10,
+    "discountPrice": 34200,
+    "categories": [
+      {
+        "categoryName": "관절_뼈_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "칼슘",
+        "volume": "300mg"
+      },
+      {
+        "ingredient": "마그네슘",
+        "volume": "150mg"
+      },
+      {
+        "ingredient": "아연",
+        "volume": "8.5mg"
+      },
+      {
+        "ingredient": "비타민D",
+        "volume": "10mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://farmntop.co.kr/web/product/big/202104/8cfa074cb334090a9bf6ae79d7c7f776.jpg",
+    "descriptionImage": "https://media97.imghost.cafe24.com/6648.jpg",
+    "title": "브라질 그린 프로폴리스",
+    "content": "항산화를 위한 소중한 자연의 선물!",
+    "expiration": "2026-01-02",
+    "brand": "FarmAndTop",
+    "sales": 140,
+    "price": 30000,
+    "capacity": 90,
+    "servingSize": 1,
+    "discountRate": 10,
+    "discountPrice": 27000,
+    "categories": [
+      {
+        "categoryName": "항산화"
+      },
+      {
+        "categoryName": "피로"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "탄수화물",
+        "volume": "2g"
+      },
+      {
+        "ingredient": "플라보노이드",
+        "volume": "17mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://image.nutrione.co.kr/upload/item/1000095526/1000095526_ITEM2022111531458.png",
+    "descriptionImage": "https://quabdfrttgah10486813.cdn.ntruss.com/nutrione/upload/images/221111_%EB%A9%B4%EC%97%AD%EA%B3%B5%EC%8B%9D%20%EB%B0%9C%ED%9A%A8%20%EB%B2%A0%ED%83%80%EA%B8%80%EB%A3%A8%EC%B9%B8.png",
+    "title": "면역공식 발효 베타글루칸",
+    "content": "당신을 위해 면역 건강을 플러스하다",
+    "expiration": "2023-12-11",
+    "brand": "NutrioneLife",
+    "sales": 19,
+    "price": 32000,
+    "capacity": 40,
+    "servingSize": 1,
+    "discountRate": 40,
+    "discountPrice": 19200,
+    "categories": [
+      {
+        "categoryName": "항산화"
+      },
+      {
+        "categoryName": "기타"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "베타글루칸",
+        "volume": "312mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shopping-phinf.pstatic.net/main_2436788/24367889526.20201006162505.jpg?type=f640",
+    "descriptionImage": "https://ssl.pstatic.net/imgshopping/spec/243/67/88/24367889526_0_20201006171612.jpg",
+    "title": "아이케어 루테인",
+    "content": "어디서나 또렷하게!",
+    "expiration": "2024-05-14",
+    "brand": "Roniewell",
+    "sales": 437,
+    "price": 40000,
+    "capacity": 90,
+    "servingSize": 1,
+    "discountRate": 5,
+    "discountPrice": 38000,
+    "categories": [
+      {
+        "categoryName": "눈_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "루테인",
+        "volume": "20mg"
+      },
+      {
+        "ingredient": "비타민A",
+        "volume": "210mg"
+      },
+      {
+        "ingredient": "비타민 B1",
+        "volume": "0.36mg"
+      },
+      {
+        "ingredient": "비타민C",
+        "volume": "30mg"
+      },
+      {
+        "ingredient": "아연",
+        "volume": "30mg"
+      }
+    ],
+    "starAvg": 5
+  },
+  {
+    "thumbnail": "https://image.nutrione.co.kr/upload/item/1000022959/1000022959_ITEM2022061088980.png",
+    "descriptionImage": "https://quabdfrttgah10486813.cdn.ntruss.com/nutrione/upload/images/%EC%9C%84%20%EA%B1%B4%EA%B0%95%20%EC%BC%80%EC%96%B4%20%EA%B7%B8%EB%A6%B0%EC%84%B8%EB%9D%BC_%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80(%EC%9E%AC%EC%8B%AC%EC%9D%98).png",
+    "title": "위 건강 케어 그린세라",
+    "content": "신경 쓰이는 위, 하루 한 캡슐로 위 점막부터 케어하세요",
+    "expiration": "2024-11-05",
+    "brand": "NutrioneLife",
+    "sales": 9,
+    "price": 53800,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 20,
+    "discountPrice": 43040,
+    "categories": [
+      {
+        "categoryName": "기타"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "Secoxyloganin",
+        "volume": "0.8mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shop-phinf.pstatic.net/20220126_100/1643183640483QHTA5_JPEG/44319536209750026_936638095.jpg?type=m1000",
+    "descriptionImage": "https://shop-phinf.pstatic.net/20210824_56/16297757547901lfbz_JPEG/vitaminD3_1000_90_new.jpg?type=w860",
+    "title": "비타민D3 1000IU",
+    "content": "태양을 담은 빛타민, 뼈건강을 지키는 습관",
+    "expiration": "2024-03-05",
+    "brand": "SOLGAR",
+    "sales": 55,
+    "price": 42000,
+    "capacity": 90,
+    "servingSize": 1,
+    "discountRate": 10,
+    "discountPrice": 37800,
+    "categories": [
+      {
+        "categoryName": "관절_뼈_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "비타민 D",
+        "volume": "0.025mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shopping-phinf.pstatic.net/main_2496169/24961690524.20201124113340.jpg?type=f640",
+    "descriptionImage": "https://ssl.pstatic.net/imgshopping/spec/249/61/69/24961690524_0_20201124113057.jpg",
+    "title": "본 케어 비타민D 2000IU",
+    "content": "건강한 뼈를 위한 필수 아이템!",
+    "expiration": "2024-07-18",
+    "brand": "Roniewell",
+    "sales": 34,
+    "price": 47000,
+    "capacity": 120,
+    "servingSize": 2,
+    "discountRate": 10,
+    "discountPrice": 42300,
+    "categories": [
+      {
+        "categoryName": "관절_뼈_건강"
+      },
+      {
+        "categoryName": "항산화"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "비타민D",
+        "volume": "50mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shop-phinf.pstatic.net/20220126_226/1643183574437Yi3RN_JPEG/44319463106156852_1082441936.jpg?type=o1000",
+    "descriptionImage": "https://shop-phinf.pstatic.net/20220725_5/1658724042261qgP65_JPEG/상세_솔가_츄어블_D3_1000.jpg?type=w860",
+    "title": "츄어블 비타민D3 1000IU",
+    "content": "딸기 바나나맛으로 온가족이 맛있게 뼈건강을 지키는 습관",
+    "expiration": "2024-05-05",
+    "brand": "SOLGAR",
+    "sales": 75,
+    "price": 28000,
+    "capacity": 60,
+    "servingSize": 1,
+    "discountRate": 30,
+    "discountPrice": 16800,
+    "categories": [
+      {
+        "categoryName": "관절_뼈_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "비타민 D",
+        "volume": "0.025mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://image.nutrione.co.kr/upload/item/1000000548/1000000548_MODEL2022041534637.png",
+    "descriptionImage": "https://quabdfrttgah10486813.cdn.ntruss.com/nutrione/upload/images/220408_%EC%A1%B0%EC%9D%B8%ED%8A%B8%EB%B3%B8.png",
+    "title": "조인트본 1500",
+    "content": "관절, 연골 건강 관리를 하루 2알로!",
+    "expiration": "2023-03-04",
+    "brand": "NutrioneLife",
+    "sales": 10,
+    "price": 25900,
+    "capacity": 60,
+    "servingSize": 2,
+    "discountRate": 0,
+    "discountPrice": 25900,
+    "categories": [
+      {
+        "categoryName": "관절_뼈_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "탄수화물",
+        "volume": "2.5g"
+      },
+      {
+        "ingredient": "MSM",
+        "volume": "1500mg"
+      },
+      {
+        "ingredient": "비타민 D",
+        "volume": "0.05mg"
+      },
+      {
+        "ingredient": "아세틸글루코사민",
+        "volume": "600mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shop-phinf.pstatic.net/20220810_76/1660099687720XTaTo_JPEG/61235533426383862_2115936132.jpg?type=o1000",
+    "descriptionImage": "https://shop-phinf.pstatic.net/20220810_208/1660101588057QgAO1_PNG/(스마트스토어)레드프로폴리스_상세페이지_0810.png?type=w860",
+    "title": "VAP 면역마스터 레드 프로폴리스",
+    "content": "100% 브라질산 레드프로롤리스로 생활 속 건강에 집중!",
+    "expiration": "2024-12-29",
+    "brand": "NaturalLife",
+    "sales": 17,
+    "price": 28000,
+    "capacity": 60,
+    "servingSize": 2,
+    "discountRate": 10,
+    "discountPrice": 25200,
+    "categories": [
+      {
+        "categoryName": "항산화"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "플라노보이드",
+        "volume": "17mg"
+      },
+      {
+        "ingredient": "아연",
+        "volume": "8.5mg"
+      },
+      {
+        "ingredient": "셀렌",
+        "volume": "0.55mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shopping-phinf.pstatic.net/main_3188471/31884714623.20220418125246.jpg?type=f640",
+    "descriptionImage": "https://ssl.pstatic.net/imgshopping/spec/318/84/71/31884714623_0_20220418125239.jpg",
+    "title": "본 헬스케어 어골칼슘",
+    "content": "칼슘 흡수를 고려한 체계적 영양설계",
+    "expiration": "2027-06-12",
+    "brand": "Roniewell",
+    "sales": 77,
+    "price": 67000,
+    "capacity": 60,
+    "servingSize": 2,
+    "discountRate": 25,
+    "discountPrice": 50250,
+    "categories": [
+      {
+        "categoryName": "관절_뼈_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "나트륨",
+        "volume": "5mg"
+      },
+      {
+        "ingredient": "칼슘",
+        "volume": "210mg"
+      },
+      {
+        "ingredient": "마그네슘",
+        "volume": "105mg"
+      },
+      {
+        "ingredient": "비타민D",
+        "volume": "3mg"
+      },
+      {
+        "ingredient": "폴리감마글루탐산",
+        "volume": "60mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://image.nutrione.co.kr/upload/item/1000000927/1000000927_ITEM.png",
+    "descriptionImage": "https://quabdfrttgah10486813.cdn.ntruss.com/nutrione/data/editor/goods/210726/49c3dc2ca717a3460ccc85d49fd878f0_113935.jpg",
+    "title": "건강한 요로엔 크랜베리",
+    "content": "하루 2캡슐로 요로 건강과 정상적인 면역 기능을 동시에!",
+    "expiration": "2023-10-03",
+    "brand": "NutrioneLife",
+    "sales": 7,
+    "price": 35800,
+    "capacity": 60,
+    "servingSize": 2,
+    "discountRate": 20,
+    "discountPrice": 28640,
+    "categories": [
+      {
+        "categoryName": "기타"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "아연",
+        "volume": "2.55mg"
+      },
+      {
+        "ingredient": "총 안토시아노사이드",
+        "volume": "1.45mg"
+      },
+      {
+        "ingredient": "탄수화물",
+        "volume": "1g"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shop-phinf.pstatic.net/20230330_158/1680143857986gnEz3_PNG/81279641677257491_734844623.png?type=m1000",
+    "descriptionImage": "https://shop-phinf.pstatic.net/20230330_218/1680143617766Cx8I1_PNG/7446301622361714_1573585323.png?type=m1000",
+    "title": "유기농 새싹보리 분말",
+    "content": "원료부터 완제품까지 유기인증을 완료한 진짜 유기농 새싹",
+    "expiration": "2024-11-12",
+    "brand": "NutrioneLife",
+    "sales": 10,
+    "price": 18000,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 10,
+    "discountPrice": 16200,
+    "categories": [
+      {
+        "categoryName": "기타"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "유기농새싹보리분말",
+        "volume": "30g"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://image.nutrione.co.kr/upload/item/1000027279/1000027279_ITEM2022071842665.png",
+    "descriptionImage": "https://quabdfrttgah10486813.cdn.ntruss.com/nutrione/upload/images/%ED%93%A8%EC%96%B4%EC%9C%A0%EA%B8%B0%EB%86%8D%EB%A9%80%ED%8B%B0%EB%B9%84%ED%83%80%EB%AF%BC.png",
+    "title": "퓨어 유기농 멀티비타민 미네랄",
+    "content": "전성분 100% 유기농, 100% 국내생산",
+    "expiration": "2024-02-17",
+    "brand": "NutrioneLife",
+    "sales": 38,
+    "price": 20000,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 20,
+    "discountPrice": 16000,
+    "categories": [
+      {
+        "categoryName": "피로"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "비타민 B12",
+        "volume": "0.024mg"
+      },
+      {
+        "ingredient": "비타민 D",
+        "volume": "0.025mg"
+      },
+      {
+        "ingredient": "비타민 K",
+        "volume": "0.023mg"
+      },
+      {
+        "ingredient": "셀렌",
+        "volume": "0.018mg"
+      },
+      {
+        "ingredient": "비오틴",
+        "volume": "0.01mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://image.nutrione.co.kr/upload/item/1000000816/1000000816_ITEM2022042681330.png",
+    "descriptionImage": "https://quabdfrttgah10486813.cdn.ntruss.com/nutrione/upload/images/%ED%94%84%EB%A1%9C%ED%94%84%EB%A6%AC%EB%B0%94%EC%9D%B4%EC%98%A4%ED%8B%B1%EC%8A%A4.png",
+    "title": "프로&프리 바이오틱스",
+    "content": "현대인의 생체 리듬을 고려한 황금 배합",
+    "expiration": "2024-11-24",
+    "brand": "NutrioneLife",
+    "sales": 32,
+    "price": 22300,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 0,
+    "discountPrice": 22300,
+    "categories": [
+      {
+        "categoryName": "장_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "프락토올리고당",
+        "volume": "3000mg"
+      },
+      {
+        "ingredient": "프로바이오틱스",
+        "volume": "10억 CFU"
+      },
+      {
+        "ingredient": "탄수화물",
+        "volume": "5g"
+      },
+      {
+        "ingredient": "아연",
+        "volume": "8.5mg"
+      },
+      {
+        "ingredient": "판토텐산",
+        "volume": "5mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://image.nutrione.co.kr/upload/item/1000001048/1000001048_ITEM.png",
+    "descriptionImage": "https://quabdfrttgah10486813.cdn.ntruss.com/nutrione/upload/images/%EB%A7%A5%EC%A3%BC%ED%9A%A8%EB%AA%A8%EA%B3%A8%EB%93%9C_%EC%A0%95%EC%9A%B0%EC%84%B1%20(2).png",
+    "title": "맥주 효모 골드",
+    "content": "독일의 황금색 맥주에서 나온 프리미엄 맥주효모",
+    "expiration": "2025-09-23",
+    "brand": "NutrioneLife",
+    "sales": 34,
+    "price": 29900,
+    "capacity": 90,
+    "servingSize": 1,
+    "discountRate": 20,
+    "discountPrice": 23920,
+    "categories": [
+      {
+        "categoryName": "피로"
+      },
+      {
+        "categoryName": "기타"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "나트륨",
+        "volume": "5mg"
+      },
+      {
+        "ingredient": "아연",
+        "volume": "8.5mg"
+      },
+      {
+        "ingredient": "셀렌",
+        "volume": "0.55mg"
+      },
+      {
+        "ingredient": "비오틴",
+        "volume": "0.75mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shop-phinf.pstatic.net/20220126_208/1643183763315zel0u_JPEG/44319659043758665_500670704.jpg?type=o1000",
+    "descriptionImage": "https://shop-phinf.pstatic.net/20210308_295/1615161706082emFiM_JPEG/네이처90정(210304).jpg?type=w860",
+    "title": "네이처바이트 종합비타민 위드 미네랄",
+    "content": "총 11종 비타민과 2종 미네랄을 한정으로 공급하는 종합 비타민과 미네랄",
+    "expiration": "2024-06-18",
+    "brand": "SOLGAR",
+    "sales": 28,
+    "price": 86000,
+    "capacity": 90,
+    "servingSize": 1,
+    "discountRate": 0,
+    "discountPrice": 86000,
+    "categories": [
+      {
+        "categoryName": "항산화"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "비타민 D",
+        "volume": "0.01mg"
+      },
+      {
+        "ingredient": "비타민 A",
+        "volume": "0.75mg"
+      },
+      {
+        "ingredient": "비타민 E",
+        "volume": "20mg"
+      },
+      {
+        "ingredient": "비타민 B1",
+        "volume": "25mg"
+      },
+      {
+        "ingredient": "비타민 B2",
+        "volume": "25mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://image.nutrione.co.kr/upload/item/1000074222/1000074222_ITEM2022063040377.png",
+    "descriptionImage": "https://quabdfrttgah10486813.cdn.ntruss.com/nutrione/upload/images/220418_%EB%89%B4%ED%8A%B8%EB%A6%AC%EC%9B%90%EB%9D%BC%EC%9D%B4%ED%94%84_%ED%8C%8C%EC%9B%8C%EC%97%85%20%EB%B0%80%ED%81%AC%EC%94%A8%EC%8A%AC%20(1).png",
+    "title": "식물성 파워업 밀크씨슬",
+    "content": "건강한 간과 활기찬 하루를 위해 하루 1정, 9중 복합 기능성",
+    "expiration": "2024-02-14",
+    "brand": "NutrioneLife",
+    "sales": 31,
+    "price": 9500,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 0,
+    "discountPrice": 9500,
+    "categories": [
+      {
+        "categoryName": "피로"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "비타민 B1",
+        "volume": "1.2mg"
+      },
+      {
+        "ingredient": "비타민 B2",
+        "volume": "1.4mg"
+      },
+      {
+        "ingredient": "판토텐산",
+        "volume": "0.05mg"
+      },
+      {
+        "ingredient": "비오틴",
+        "volume": "0.03mg"
+      },
+      {
+        "ingredient": "망간",
+        "volume": "3mg"
+      },
+      {
+        "ingredient": "아연",
+        "volume": "8.5mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shopping-phinf.pstatic.net/main_2611665/26116656522.20210224114200.jpg?type=f640",
+    "descriptionImage": "https://ssl.pstatic.net/imgshopping/spec/261/16/65/26116656522_0_20210224113513.jpg",
+    "title": "토탈케어 멀티비타민 츄어블",
+    "content": "에너지 넘치는 하루를 위해!",
+    "expiration": "2033-12-11",
+    "brand": "Roniewell",
+    "sales": 43,
+    "price": 39000,
+    "capacity": 90,
+    "servingSize": 1,
+    "discountRate": 10,
+    "discountPrice": 35100,
+    "categories": [
+      {
+        "categoryName": "기타"
+      },
+      {
+        "categoryName": "피로"
+      },
+      {
+        "categoryName": "항산화"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "비타민A",
+        "volume": "210mg"
+      },
+      {
+        "ingredient": "비타민C",
+        "volume": "30mg"
+      },
+      {
+        "ingredient": "비타민 B2",
+        "volume": "0.42mg"
+      },
+      {
+        "ingredient": "나이아신",
+        "volume": "4.5mg"
+      },
+      {
+        "ingredient": "판토텐산",
+        "volume": "1.5mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shop-phinf.pstatic.net/20220805_292/1659661998798wKVhn_JPEG/60797844506450416_1462211736.jpg?type=o1000",
+    "descriptionImage": "https://shop-phinf.pstatic.net/20220819_102/1660895212520KENUr_JPEG/혈행마스터_220819.jpg?type=w860",
+    "title": "VAP 혈행마스터 아쿠아셀 저분자 오메가3",
+    "content": "혈행과 혈압 둘 다 잡고 싶다면?",
+    "expiration": "2024-04-27",
+    "brand": "NaturalLife",
+    "sales": 24,
+    "price": 35000,
+    "capacity": 60,
+    "servingSize": 2,
+    "discountRate": 0,
+    "discountPrice": 35000,
+    "categories": [
+      {
+        "categoryName": "혈행개선"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "EPA & DHA",
+        "volume": "600mg"
+      },
+      {
+        "ingredient": "코엔자임",
+        "volume": "100mg"
+      },
+      {
+        "ingredient": "비타민 D",
+        "volume": "0.02mg"
+      },
+      {
+        "ingredient": "비타민 E",
+        "volume": "11mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shop-phinf.pstatic.net/20220411_239/1649639340220H1az6_JPEG/50775168022528767_1113717846.jpg?type=o1000",
+    "descriptionImage": "https://shop-phinf.pstatic.net/20220323_271/1647999966450NEQn1_JPEG/VAP_아이마스터_상세페이지_220208(풀사이즈).jpg?type=w860",
+    "title": "VAP 아이마스터 루테인 지아잔틴 아스타잔틴",
+    "content": "눈의 건조, 노화, 피로 개선을 한 번에 관리하고 싶다면",
+    "expiration": "2024-12-10",
+    "brand": "NaturalLife",
+    "sales": 25,
+    "price": 38000,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 15,
+    "discountPrice": 32300,
+    "categories": [
+      {
+        "categoryName": "눈_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "루테인",
+        "volume": "18.1mg"
+      },
+      {
+        "ingredient": "지아잔틴",
+        "volume": "1.8mg"
+      },
+      {
+        "ingredient": "아스타잔틴",
+        "volume": "4mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://image.nutrione.co.kr/upload/item/1000088740/1000088740_ITEM2022081633265.png",
+    "descriptionImage": "https://quabdfrttgah10486813.cdn.ntruss.com/nutrione/data/editor/goods/220111/13e4ae72e5861bb801def593dba4f32b_142742.jpg",
+    "title": "프리바이오틱스 100억 맥스",
+    "content": "첨가물 3무! 부원료까지 꼼꼼하게 담은 프리바이오틱스",
+    "expiration": "2023-04-01",
+    "brand": "NutrioneLife",
+    "sales": 28,
+    "price": 14500,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 10,
+    "discountPrice": 13050,
+    "categories": [
+      {
+        "categoryName": "장_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "프락토올리고당",
+        "volume": "3500mg"
+      }
+    ],
+    "starAvg": 4
+  },
+  {
+    "thumbnail": "https://shop-phinf.pstatic.net/20220329_79/1648545689000UboL6_JPEG/49681523819426515_1848694384.jpg?type=m1000",
+    "descriptionImage": "https://shop-phinf.pstatic.net/20220615_255/1655280298577TmecI_JPEG/%EC%96%BC%EB%9D%BC%EC%9D%B4%EB%B8%8C_%EC%9B%90%EC%8A%A4%EB%8D%B0%EC%9D%BC%EB%A6%AC_860.jpeg?type=w860",
+    "title": "얼라이브 원스데일리 멀티비타민",
+    "content": "한 알에 꽉채운 21가지 비타민과 미네랄",
+    "expiration": "2023-03-11",
+    "brand": "NaturalLife",
+    "sales": 57,
+    "price": 17500,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 20,
+    "discountPrice": 14000,
+    "categories": [
+      {
+        "categoryName": "관절_뼈_건강"
+      },
+      {
+        "categoryName": "항산화"
+      },
+      {
+        "categoryName": "눈_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "비타민 B1",
+        "volume": "40mg"
+      },
+      {
+        "ingredient": "비타민 B2",
+        "volume": "35mg"
+      },
+      {
+        "ingredient": "나이아신",
+        "volume": "50mg"
+      },
+      {
+        "ingredient": "비오틴",
+        "volume": "0.15mg"
+      },
+      {
+        "ingredient": "판토텐산",
+        "volume": "70mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shopping-phinf.pstatic.net/main_3225568/32255682624.20220510154550.jpg?type=f640",
+    "descriptionImage": "https://ssl.pstatic.net/imgshopping/spec/322/55/68/32255682624_0_20220510155047.jpg",
+    "title": "위건강",
+    "content": "편안한 위 건강을 위해!",
+    "expiration": "2027-07-09",
+    "brand": "Roniewell",
+    "sales": 50,
+    "price": 77000,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 30,
+    "discountPrice": 53900,
+    "categories": [
+      {
+        "categoryName": "기타"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "비타민A",
+        "volume": "700mg"
+      },
+      {
+        "ingredient": "비타민C",
+        "volume": "30mg"
+      },
+      {
+        "ingredient": "비타민E",
+        "volume": "3.3mg"
+      },
+      {
+        "ingredient": "아연",
+        "volume": "8.5mg"
+      },
+      {
+        "ingredient": "셀레늄",
+        "volume": "55mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shop-phinf.pstatic.net/20221019_173/1666167939968kGDNl_JPEG/67303782679509442_1200051286.jpg?type=o1000",
+    "descriptionImage": "https://shop-phinf.pstatic.net/20220530_274/1653905113777sANQq_JPEG/상세소버스_루테인지아잔틴.jpg?type=w860",
+    "title": "눈 건강엔 루테인 지아잔틴",
+    "content": "식약처 1일 섭취량 기준 최대 함량, 눈 건강과 정상적인 면역기능까지!",
+    "expiration": "2024-08-19",
+    "brand": "SOLGAR",
+    "sales": 30,
+    "price": 35000,
+    "capacity": 60,
+    "servingSize": 1,
+    "discountRate": 0,
+    "discountPrice": 35000,
+    "categories": [
+      {
+        "categoryName": "눈_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "루테인",
+        "volume": "20.1mg"
+      },
+      {
+        "ingredient": "지아잔틴",
+        "volume": "3.8mg"
+      },
+      {
+        "ingredient": "비타민 A",
+        "volume": "0.7mg"
+      },
+      {
+        "ingredient": "아연",
+        "volume": "8.5mg"
+      }
+    ],
+    "starAvg": 4
+  },
+  {
+    "thumbnail": "https://shopping-phinf.pstatic.net/main_2436726/24367260522.20201006154935.jpg?type=f640",
+    "descriptionImage": "https://ssl.pstatic.net/imgshopping/spec/243/67/26/24367260522_0_20201006162016.jpg",
+    "title": "더블케어 루테인 밀크씨슬",
+    "content": "지친 눈과 간을 위해!",
+    "expiration": "2029-01-09",
+    "brand": "Roniewell",
+    "sales": 74,
+    "price": 67000,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 30,
+    "discountPrice": 46900,
+    "categories": [
+      {
+        "categoryName": "눈_건강"
+      },
+      {
+        "categoryName": "간_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "지방",
+        "volume": "1mg"
+      },
+      {
+        "ingredient": "루테인",
+        "volume": "20mg"
+      },
+      {
+        "ingredient": "실리마린",
+        "volume": "130mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shop-phinf.pstatic.net/20221019_66/1666167605377bO7SO_JPEG/67303447958073787_1093340495.jpg?type=o1000",
+    "descriptionImage": "https://shop-phinf.pstatic.net/20220530_234/1653907236467JGo76_JPEG/상세소버스_석류콜라겐젤리_(7).jpeg?type=w860",
+    "title": "소버스 건강한포 석류콜라겐젤리",
+    "content": "미녀를 위한 석류와 콜라겐의 아름다운 맛남",
+    "expiration": "2024-03-12",
+    "brand": "SOLGAR",
+    "sales": 50,
+    "price": 48000,
+    "capacity": 7,
+    "servingSize": 1,
+    "discountRate": 35,
+    "discountPrice": 31200,
+    "categories": [
+      {
+        "categoryName": "피부"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "나트륨",
+        "volume": "15mg"
+      },
+      {
+        "ingredient": "탄수화물",
+        "volume": "10g"
+      },
+      {
+        "ingredient": "단백질",
+        "volume": "2g"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shopping-phinf.pstatic.net/main_3066047/30660470620.20220124120802.jpg?type=f640",
+    "descriptionImage": "https://ssl.pstatic.net/imgshopping/spec/306/60/47/30660470620_0_20220124122007.jpg",
+    "title": "바이탈케어 비타민C 1000",
+    "content": "온가족 항산화 에너지 UP!",
+    "expiration": "2029-09-29",
+    "brand": "Roniewell",
+    "sales": 100,
+    "price": 48000,
+    "capacity": 120,
+    "servingSize": 2,
+    "discountRate": 15,
+    "discountPrice": 40800,
+    "categories": [
+      {
+        "categoryName": "항산화"
+      },
+      {
+        "categoryName": "피로"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "탄수화물",
+        "volume": "1g"
+      },
+      {
+        "ingredient": "비타민C",
+        "volume": "1000mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://image.nutrione.co.kr/upload/item/1000068454/1000068454_ITEM2022061523811.png",
+    "descriptionImage": "https://quabdfrttgah10486813.cdn.ntruss.com/nutrione/upload/images/Liver.png",
+    "title": "식물성 간 건강 솔루션 밀크씨슬",
+    "content": "6가지 기능성 원료로 꽉 채운 1일 권장 섭취량",
+    "expiration": "2023-10-01",
+    "brand": "NutrioneLife",
+    "sales": 40,
+    "price": 31900,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 0,
+    "discountPrice": 31900,
+    "categories": [
+      {
+        "categoryName": "피로"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "실리마린",
+        "volume": "130mg"
+      },
+      {
+        "ingredient": "비타민 B1",
+        "volume": "1.2mg"
+      },
+      {
+        "ingredient": "비타민 B6",
+        "volume": "1.5mg"
+      },
+      {
+        "ingredient": "나이아신",
+        "volume": "15mg"
+      },
+      {
+        "ingredient": "판토텐산",
+        "volume": "5mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shopping-phinf.pstatic.net/main_3331128/33311283620.20220706114909.jpg?type=f640",
+    "descriptionImage": "https://ssl.pstatic.net/imgshopping/spec/333/11/28/33311283620_0_20220706115057.jpg",
+    "title": "간에다 밀크씨슬",
+    "content": "당신의 소중한 간, 지금 안녕하십니까?",
+    "expiration": "2024-03-12",
+    "brand": "MYNI",
+    "sales": 61,
+    "price": 23800,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 0,
+    "discountPrice": 23800,
+    "categories": [
+      {
+        "categoryName": "간_건강"
+      },
+      {
+        "categoryName": "피로"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "실리마린",
+        "volume": "130mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shopping-phinf.pstatic.net/main_1954029/19540290510.20220503193229.jpg?type=f640",
+    "descriptionImage": "https://shopping-phinf.pstatic.net/20220503_19_26/2c145f1c-ebd4-4683-a7fc-6ffe50fa2e11/818305136.jpg",
+    "title": "100억 프로바이오틱스",
+    "content": "살아있는 17종 유산균을 1캡슐에!",
+    "expiration": "2023-03-02",
+    "brand": "GNM",
+    "sales": 54,
+    "price": 50000,
+    "capacity": 60,
+    "servingSize": 1,
+    "discountRate": 50,
+    "discountPrice": 25000,
+    "categories": [
+      {
+        "categoryName": "장_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "프로바이오틱스",
+        "volume": "10,000,000,000mg"
+      }
+    ],
+    "starAvg": 5
+  },
+  {
+    "thumbnail": "https://wiselycompany.com/web/product/big/202211/2e0d5471ae5d8bb769fce68692fefdd5.jpg",
+    "descriptionImage": "https://wiselycompany.com/web/upload/NNEditor/20221026/hb-hongsam-detail-info-1-pc.png",
+    "title": "면역 피로개선 홍삼",
+    "content": "면역력 증진과 피로개선에 도움을 줄 수 있는 진세노사이드 10mg 함유 홍삼",
+    "expiration": "2023-06-26",
+    "brand": "Habitual",
+    "sales": 441,
+    "price": 12500,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 20,
+    "discountPrice": 10000,
+    "categories": [
+      {
+        "categoryName": "항산화"
+      },
+      {
+        "categoryName": "뇌_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "진세노사이드",
+        "volume": "10mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://farmntop.co.kr/web/product/big/202012/523e0e16e59da7908fef747653cc0a98.jpg",
+    "descriptionImage": "https://jumbbang48.hgodo.com/1730/17300009.jpg",
+    "title": "리얼 아르기닌 5000",
+    "content": "지치지 않는 힘, 넘치는 활력!",
+    "expiration": "2027-06-05",
+    "brand": "FarmAndTop",
+    "sales": 167,
+    "price": 30000,
+    "capacity": 15,
+    "servingSize": 1,
+    "discountRate": 50,
+    "discountPrice": 15000,
+    "categories": [
+      {
+        "categoryName": "피로"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "나트륨",
+        "volume": "1mg"
+      },
+      {
+        "ingredient": "단백질",
+        "volume": "10mg"
+      }
+    ],
+    "starAvg": 5
+  },
+  {
+    "thumbnail": "https://wiselycompany.com/web/product/big/202211/e5539f051223b10ed67da8e3dea9556c.jpg",
+    "descriptionImage": "https://wiselycompany.com/web/upload/NNEditor/20221028/hb-msm-detail-info-2-pc.png",
+    "title": "관절 건강 MSM",
+    "content": "매일 닳고 있는 관절과 연골건강에 도움을 줄 수 있는 MSM 일일섭취량 100%",
+    "expiration": "2023-08-19",
+    "brand": "Habitual",
+    "sales": 14,
+    "price": 9800,
+    "capacity": 120,
+    "servingSize": 2,
+    "discountRate": 0,
+    "discountPrice": 9800,
+    "categories": [
+      {
+        "categoryName": "관절_뼈_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "비타민 D",
+        "volume": "0.01mg"
+      },
+      {
+        "ingredient": "MSM",
+        "volume": "2000mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://farmntop.co.kr/web/product/big/202201/41df2b6b6ca81a977a0e976bfe31239b.jpg",
+    "descriptionImage": "https://media97.imghost.cafe24.com/6640.jpg",
+    "title": "초임계 알티지 오메가3 식물성 캡슐",
+    "content": "높은 순도에 체네 흡수가 용이!",
+    "expiration": "2030-02-01",
+    "brand": "FarmAndTop",
+    "sales": 57,
+    "price": 43000,
+    "capacity": 60,
+    "servingSize": 1,
+    "discountRate": 20,
+    "discountPrice": 34400,
+    "categories": [
+      {
+        "categoryName": "혈행개선"
+      },
+      {
+        "categoryName": "뇌_건강"
+      },
+      {
+        "categoryName": "눈_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "지방",
+        "volume": "1.5g"
+      },
+      {
+        "ingredient": "EPA와 DHA의 합",
+        "volume": "1000mg"
+      },
+      {
+        "ingredient": "비타민E",
+        "volume": "11mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shopping-phinf.pstatic.net/main_2600914/26009144526.20210216162912.jpg?type=f640",
+    "descriptionImage": "https://ssl.pstatic.net/imgshopping/spec/260/09/14/26009144526_0_20210216163305.jpg",
+    "title": "엘더베리 프로폴리스",
+    "content": "건강한 하루를 위한 우리가족 하루 1포!",
+    "expiration": "2023-12-12",
+    "brand": "MYNI",
+    "sales": 5,
+    "price": 36000,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 7,
+    "discountPrice": 33480,
+    "categories": [
+      {
+        "categoryName": "기타"
+      },
+      {
+        "categoryName": "항산화"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "나트륨",
+        "volume": "2mg"
+      },
+      {
+        "ingredient": "탄수화물",
+        "volume": "5g"
+      },
+      {
+        "ingredient": "당류",
+        "volume": "4g"
+      },
+      {
+        "ingredient": "단백질",
+        "volume": "0.2g"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://www.nzomall.com/shopimages/nzomall/005001000418.jpg?1658239593",
+    "descriptionImage": "https://nzoriginkr.cafe24.com/spec/nzorigin/nz_strengthMilkthistle_150t_all.jpg",
+    "title": "슈퍼 스트렝스 밀크씨슬",
+    "content": "하루 1정으로 간편하게 관리하는 간 건강",
+    "expiration": "2032-01-17",
+    "brand": "nzOrigin",
+    "sales": 41,
+    "price": 44000,
+    "capacity": 150,
+    "servingSize": 1,
+    "discountRate": 25,
+    "discountPrice": 33000,
+    "categories": [
+      {
+        "categoryName": "간_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "나이아신",
+        "volume": "15mg"
+      },
+      {
+        "ingredient": "판토텐산",
+        "volume": "10mg"
+      },
+      {
+        "ingredient": "아연",
+        "volume": "3mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shopping-phinf.pstatic.net/main_2445522/24455226522.20201203175055.jpg?type=f640",
+    "descriptionImage": "https://shopping-phinf.pstatic.net/20221122_15_7/743a2718-2d38-4222-9ca8-00b06a5a7577/-1343221507.jpg",
+    "title": "루테인지아잔틴 아스타잔틴",
+    "content": "눈 건강은 물론, 눈의 피로도 개선까지!",
+    "expiration": "2026-03-01",
+    "brand": "GNM",
+    "sales": 59,
+    "price": 44000,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 15,
+    "discountPrice": 37400,
+    "categories": [
+      {
+        "categoryName": "눈_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "아연",
+        "volume": "8.5mg"
+      },
+      {
+        "ingredient": "셀레늄",
+        "volume": "55mg"
+      },
+      {
+        "ingredient": "루테인",
+        "volume": "18.18mg"
+      },
+      {
+        "ingredient": "총지아잔틴",
+        "volume": "1.82mg"
+      },
+      {
+        "ingredient": "아스타잔틴",
+        "volume": "4mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://wiselycompany.com/web/product/big/202211/b906fea8732c11854b6588882aa1adaa.jpg",
+    "descriptionImage": "https://wiselycompany.com/web/upload/NNEditor/20221026/hb-milkthistle-detail-info-2-pc.png",
+    "title": "간 건강 밀크씨슬",
+    "content": "활력 가득한 하루를 위해 간 건강에 도움을 줄 수 있는 밀크씨슬",
+    "expiration": "2023-10-02",
+    "brand": "Habitual",
+    "sales": 42,
+    "price": 7300,
+    "capacity": 60,
+    "servingSize": 1,
+    "discountRate": 0,
+    "discountPrice": 7300,
+    "categories": [
+      {
+        "categoryName": "기타"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "실리마린",
+        "volume": "130mg"
+      },
+      {
+        "ingredient": "비타민 B1",
+        "volume": "1.2mg"
+      },
+      {
+        "ingredient": "비타민 B2",
+        "volume": "1.4mg"
+      },
+      {
+        "ingredient": "나이아신",
+        "volume": "15mg"
+      },
+      {
+        "ingredient": "비오틴",
+        "volume": "0.03mg"
+      },
+      {
+        "ingredient": "판토텐산",
+        "volume": "5mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://wiselycompany.com/web/product/big/202211/da6a218b98cbb6e0c090d818d00ba5d3.jpg",
+    "descriptionImage": "https://wiselycompany.com/web/upload/NNEditor/20221110/HB-E1848BE185A9E18486E185A6E18480E185A13-detail-info-1-pc.png",
+    "title": "혈행 눈건강 기억력 오메가3",
+    "content": "혈행 관리, 눈 건강, 기억력 개선까지 세 가지 기능성을 모두 갖춘 고함량 오메가3",
+    "expiration": "2023-10-08",
+    "brand": "Habitual",
+    "sales": 27,
+    "price": 9800,
+    "capacity": 120,
+    "servingSize": 2,
+    "discountRate": 10,
+    "discountPrice": 8820,
+    "categories": [
+      {
+        "categoryName": "눈_건강"
+      },
+      {
+        "categoryName": "혈행개선"
+      },
+      {
+        "categoryName": "뇌_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "EPA & DHA",
+        "volume": "1000mg"
+      },
+      {
+        "ingredient": "비타민 E",
+        "volume": "3.3mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shop-phinf.pstatic.net/20230412_265/1681259322035G01Sa_JPEG/82395105702973831_13307906.jpg?type=m1000",
+    "descriptionImage": "https://www.ildongmall.co.kr/data/editor/goods/220613/9fb4929bef0415f9ee2584b70bf35a3a_113700.jpg",
+    "title": "트리플 알티지오메가3",
+    "content": "오늘부터 간편하게! 잇하게! 1일 1 오메가3 하세요!",
+    "expiration": "2024-05-11",
+    "brand": "MYNI",
+    "sales": 27,
+    "price": 21000,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 0,
+    "discountPrice": 21000,
+    "categories": [
+      {
+        "categoryName": "눈_건강"
+      },
+      {
+        "categoryName": "혈행개선"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "지방",
+        "volume": "1g"
+      },
+      {
+        "ingredient": "EPA와 DHA의 합",
+        "volume": "600mg"
+      },
+      {
+        "ingredient": "비타민E",
+        "volume": "11mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "http://www.nzomall.com/shopimages/nzomall/005001000097.jpg?1633395833",
+    "descriptionImage": "http://nzoriginkr.cafe24.com/spec/nzorigin/nz_HighQGinkgo1200_60c_all.jpg",
+    "title": "하이큐 포스파티딜세린 징코1200",
+    "content": "포스파티딜세린 함유",
+    "expiration": "2024-04-01",
+    "brand": "nzOrigin",
+    "sales": 88,
+    "price": 48000,
+    "capacity": 60,
+    "servingSize": 2,
+    "discountRate": 0,
+    "discountPrice": 48000,
+    "categories": [
+      {
+        "categoryName": "뇌_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "지방",
+        "volume": "2g"
+      },
+      {
+        "ingredient": "비타민E",
+        "volume": "22mg"
+      },
+      {
+        "ingredient": "포스파티딜세린",
+        "volume": "300mg"
+      },
+      {
+        "ingredient": "플라보놀 배당체",
+        "volume": "36mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shopping-phinf.pstatic.net/main_2701252/27012524523.20210503120549.jpg?type=f640",
+    "descriptionImage": "https://ssl.pstatic.net/imgshopping/spec/270/12/52/27012524523_0_20210503120810.jpg",
+    "title": "메모리 지피에스",
+    "content": "쉴 틈 없는 나의 두뇌를 위한 똑똑한 선택!",
+    "expiration": "2023-03-13",
+    "brand": "MYNI",
+    "sales": 74,
+    "price": 70000,
+    "capacity": 60,
+    "servingSize": 2,
+    "discountRate": 13,
+    "discountPrice": 60900,
+    "categories": [
+      {
+        "categoryName": "뇌_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "지방",
+        "volume": "2g"
+      },
+      {
+        "ingredient": "비타민E",
+        "volume": "22mg"
+      },
+      {
+        "ingredient": "플라보놀배당체",
+        "volume": "28mg"
+      },
+      {
+        "ingredient": "포스파티딜세린",
+        "volume": "300mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "http://www.nzomall.com/shopimages/nzomall/005001000082.jpg?1634178560",
+    "descriptionImage": "http://nzoriginkr.cafe24.com/spec/nzorigin/nz_sleepmate_30t_all.jpg",
+    "title": "징코맥스 1300",
+    "content": "은행잎 추출물과 6중 복합 기능성 제품/기억력 개선, 혈행 개선에 도움!",
+    "expiration": "2026-06-06",
+    "brand": "nzOrigin",
+    "sales": 305,
+    "price": 18000,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 10,
+    "discountPrice": 16200,
+    "categories": [
+      {
+        "categoryName": "뇌_건강"
+      },
+      {
+        "categoryName": "혈행개선"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "비타민C",
+        "volume": "30mg"
+      },
+      {
+        "ingredient": "아연",
+        "volume": "6.5mg"
+      },
+      {
+        "ingredient": "비타민B",
+        "volume": "5mg"
+      },
+      {
+        "ingredient": "플라보놀배당체",
+        "volume": "36mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "http://www.nzomall.com/shopimages/nzomall/005001000022.jpg?1654747327",
+    "descriptionImage": "http://nzoriginkr.cafe24.com/spec/nzorigin/greenlippedmussel_120capsules_usp_all.jpg",
+    "title": "뉴질랜드 초록입홍합17500 비타민D",
+    "content": "1년 355일 움직이는 뼈, 얼마나 관리하고 있나요?",
+    "expiration": "2033-03-11",
+    "brand": "nzOrigin",
+    "sales": 150,
+    "price": 79000,
+    "capacity": 120,
+    "servingSize": 1,
+    "discountRate": 10,
+    "discountPrice": 71100,
+    "categories": [
+      {
+        "categoryName": "관절_뼈_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "나트륨",
+        "volume": "15mg"
+      },
+      {
+        "ingredient": "비타민D",
+        "volume": "10mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shop-phinf.pstatic.net/20221130_241/16697935538867mciX_PNG/70929388681420728_1840236530.png?type=m510",
+    "descriptionImage": "https://shop-phinf.pstatic.net/20220823_162/16612290710244r7YD_JPEG/센트룸_우먼(힌츄).jpg?type=w860",
+    "title": "우먼 멀티 비타민 미네랄",
+    "content": "하고 싶은게 많은 나를 위해. 영양은 멀티풀, 인생은 컬러풀",
+    "expiration": "2023-02-27",
+    "brand": "Centrum",
+    "sales": 24,
+    "price": 27000,
+    "capacity": 50,
+    "servingSize": 1,
+    "discountRate": 0,
+    "discountPrice": 27000,
+    "categories": [
+      {
+        "categoryName": "피부"
+      },
+      {
+        "categoryName": "항산화"
+      },
+      {
+        "categoryName": "혈행개선"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "마그네슘",
+        "volume": "64mg"
+      },
+      {
+        "ingredient": "비타민 A",
+        "volume": "1.09mg"
+      },
+      {
+        "ingredient": "나이아신",
+        "volume": "14mg"
+      },
+      {
+        "ingredient": "비타민 D",
+        "volume": "0.1mg"
+      },
+      {
+        "ingredient": "판토텐산",
+        "volume": "12mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "http://www.nzomall.com/shopimages/nzomall/005001000142.jpg?1633395833",
+    "descriptionImage": "http://nzoriginkr.cafe24.com/spec/nzorigin/nz_mensmulti60_all.jpg",
+    "title": "맨즈 멀티비타민 앤 미네랄",
+    "content": "남성종합영양제",
+    "expiration": "2027-06-02",
+    "brand": "nzOrigin",
+    "sales": 201,
+    "price": 27000,
+    "capacity": 60,
+    "servingSize": 1,
+    "discountRate": 0,
+    "discountPrice": 27000,
+    "categories": [
+      {
+        "categoryName": "기타"
+      },
+      {
+        "categoryName": "항산화"
+      },
+      {
+        "categoryName": "피로"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "비타민C",
+        "volume": "150mg"
+      },
+      {
+        "ingredient": "비타민E",
+        "volume": "11mg"
+      },
+      {
+        "ingredient": "비타민B1",
+        "volume": "21mg"
+      },
+      {
+        "ingredient": "비타민B6",
+        "volume": "30mg"
+      },
+      {
+        "ingredient": "판토텐산",
+        "volume": "39mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://farmntop.co.kr/web/product/big/202202/48261ae47c78afeb35ffaa14fde50a5f.jpg",
+    "descriptionImage": "https://media97.imghost.cafe24.com/6629.jpg",
+    "title": "맥주효모 비오틴L 시스틴",
+    "content": "풍성한 자신감을 채우다",
+    "expiration": "2023-12-21",
+    "brand": "FarmAndTop",
+    "sales": 181,
+    "price": 30000,
+    "capacity": 90,
+    "servingSize": 1,
+    "discountRate": 20,
+    "discountPrice": 24000,
+    "categories": [
+      {
+        "categoryName": "기타"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "나트륨",
+        "volume": "45mg"
+      },
+      {
+        "ingredient": "단백질",
+        "volume": "13g"
+      },
+      {
+        "ingredient": "비오틴",
+        "volume": "27000mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://wiselycompany.com/web/product/big/202211/3d9ae3ac4480cbed5ad0cd7019f6c462.jpg",
+    "descriptionImage": "https://wiselycompany.com/web/upload/NNEditor/20221026/hb-garcinia-detail-info-1-pc.png",
+    "title": "체지방 감소 가르시니아",
+    "content": "탄수화물 섭취가 많은 한국인에게 딱 맞는 가르시니아",
+    "expiration": "2023-03-05",
+    "brand": "Habitual",
+    "sales": 4,
+    "price": 7900,
+    "capacity": 120,
+    "servingSize": 2,
+    "discountRate": 0,
+    "discountPrice": 7900,
+    "categories": [
+      {
+        "categoryName": "기타"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "Hydroxycitric acid",
+        "volume": "750mg"
+      },
+      {
+        "ingredient": "비타민 B1",
+        "volume": "1.2mg"
+      },
+      {
+        "ingredient": "비타민 B6",
+        "volume": "1.5mg"
+      },
+      {
+        "ingredient": "비오틴",
+        "volume": "1.5mg"
+      },
+      {
+        "ingredient": "판토텐산",
+        "volume": "15mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shop-phinf.pstatic.net/20220524_149/16533720934966gcx7_JPEG/54507982199426414_240566288.jpg?type=o1000",
+    "descriptionImage": "https://shop-phinf.pstatic.net/20220524_13/1653372123767qN6tk_JPEG/상세_솔가_B포뮬라C_(60).jpg?type=w860",
+    "title": "B포뮬라C 멀티비타민",
+    "content": "에너지대사 및 효율 증대, 비타민 B군 7종과 비타민 C 복합 멀티비타민",
+    "expiration": "2024-10-20",
+    "brand": "SOLGAR",
+    "sales": 41,
+    "price": 32000,
+    "capacity": 60,
+    "servingSize": 1,
+    "discountRate": 15,
+    "discountPrice": 27200,
+    "categories": [
+      {
+        "categoryName": "피로"
+      },
+      {
+        "categoryName": "항산화"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "비타민 B1",
+        "volume": "50mg"
+      },
+      {
+        "ingredient": "비타민 B2",
+        "volume": "50mg"
+      },
+      {
+        "ingredient": "나이아신",
+        "volume": "25mg"
+      },
+      {
+        "ingredient": "비오틴",
+        "volume": "0.3mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shop-phinf.pstatic.net/20221124_3/1669253334994lQsUJ_JPEG/70389162767947787_1228598448.jpg?type=m1000",
+    "descriptionImage": "https://www.ildongmall.co.kr/data/editor/goods/220613/61ff73888d4072f79966dfd3d3f37308_113918.jpg",
+    "title": "비타민D3 1000IU",
+    "content": "햇빛이 부족한 현대인, 하루 1포, 건강한 습관!",
+    "expiration": "2024-04-30",
+    "brand": "MYNI",
+    "sales": 101,
+    "price": 20000,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 50,
+    "discountPrice": 10000,
+    "categories": [
+      {
+        "categoryName": "관절_뼈_건강"
+      },
+      {
+        "categoryName": "항산화"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "탄수화물",
+        "volume": "2g"
+      },
+      {
+        "ingredient": "비타민D",
+        "volume": "25mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shop-phinf.pstatic.net/20221130_105/1669793605470hG3W8_PNG/70929440280008216_1483955593.png?type=m510",
+    "descriptionImage": "https://shop-phinf.pstatic.net/20221116_284/1668592361537rv7Dv_JPEG/Kids_New.jpg?type=w860",
+    "title": "키즈 멀티 비타민 미네랄",
+    "content": "하루 1정 맛있게 챙기는 13가지 비타민과 미네랄",
+    "expiration": "2024-01-03",
+    "brand": "Centrum",
+    "sales": 28,
+    "price": 30000,
+    "capacity": 60,
+    "servingSize": 1,
+    "discountRate": 50,
+    "discountPrice": 15000,
+    "categories": [
+      {
+        "categoryName": "눈_건강"
+      },
+      {
+        "categoryName": "기타"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "칼슘",
+        "volume": "50mg"
+      },
+      {
+        "ingredient": "비타민 A",
+        "volume": "0.2mg"
+      },
+      {
+        "ingredient": "비타민 D",
+        "volume": "1.5mg"
+      },
+      {
+        "ingredient": "비타민 E",
+        "volume": "10mg"
+      },
+      {
+        "ingredient": "비타민 K",
+        "volume": "0.07mg"
+      }
+    ],
+    "starAvg": 3
+  },
+  {
+    "thumbnail": "https://shopping-phinf.pstatic.net/main_3050138/30501386618.20220111124938.jpg?type=f640",
+    "descriptionImage": "https://shopping-phinf.pstatic.net/20221013_16_9/5dfbd8cc-acf0-4991-ae91-08b2b986bbc2/-434363859.jpg",
+    "title": "50억 보장 장 건강해질 유산균",
+    "content": "하루 1캡슐로 간편하게 케어하는 장 건강",
+    "expiration": "2024-07-17",
+    "brand": "GNM",
+    "sales": 99,
+    "price": 45000,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 10,
+    "discountPrice": 40500,
+    "categories": [
+      {
+        "categoryName": "장_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "프로바이오틱스",
+        "volume": "5,000,000,000mg"
+      },
+      {
+        "ingredient": "셀레늄",
+        "volume": "16.5mg"
+      },
+      {
+        "ingredient": "아연",
+        "volume": "2.55mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "http://www.nzomall.com/shopimages/nzomall/005001000183.jpg?1633395832",
+    "descriptionImage": "http://nzoriginkr.cafe24.com/spec/nzorigin/nz_bltec_30c_all.jpg",
+    "title": "빌베리 루테인 토탈 아이케어",
+    "content": "식물성 복합 눈 건강기능식품!",
+    "expiration": "2026-04-02",
+    "brand": "nzOrigin",
+    "sales": 142,
+    "price": 24000,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 10,
+    "discountPrice": 21600,
+    "categories": [
+      {
+        "categoryName": "눈_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "루테인",
+        "volume": "20mg"
+      },
+      {
+        "ingredient": "빌베리추출물",
+        "volume": "240mg"
+      },
+      {
+        "ingredient": "비타민E",
+        "volume": "10mg"
+      },
+      {
+        "ingredient": "비타민A",
+        "volume": "450mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://wiselycompany.com/web/product/big/202211/b9fdce83dee6d6612b870a0286b892fc.jpg",
+    "descriptionImage": "https://wiselycompany.com/web/upload/NNEditor/20221111/copy-1668156956-HB-E18486E185A5E186AFE18490E185B5E18487E185B5E18490E185A1E18486E185B5E186AB-detail-info-1-pc.png",
+    "title": "활력 충전 멀티 비타민",
+    "content": "필수 영양소 멀티비타민&미네랄 20종. 활력충전을 위한 고함량 비타민B군",
+    "expiration": "2024-11-12",
+    "brand": "Habitual",
+    "sales": 384,
+    "price": 11600,
+    "capacity": 60,
+    "servingSize": 1,
+    "discountRate": 10,
+    "discountPrice": 10440,
+    "categories": [
+      {
+        "categoryName": "피로"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "비타민 A",
+        "volume": "0.7g"
+      },
+      {
+        "ingredient": "비타민 B1",
+        "volume": "12mg"
+      },
+      {
+        "ingredient": "비타민 B2",
+        "volume": "14mg"
+      },
+      {
+        "ingredient": "나이아신",
+        "volume": "150mg"
+      },
+      {
+        "ingredient": "비오틴",
+        "volume": "0.3mg"
+      },
+      {
+        "ingredient": "판토텐산",
+        "volume": "50mg"
+      }
+    ],
+    "starAvg": 4.75
+  },
+  {
+    "thumbnail": "http://www.nzomall.com/shopimages/nzomall/005001000055.jpg?1658123501",
+    "descriptionImage": "https://nzoriginkr.cafe24.com/spec/nzorigin/nz_alaskartgomega3_60c_all.jpg",
+    "title": "알래스카 알티지 오메가-3",
+    "content": "흡수율 높은 rTG형으로 혈행 관리!",
+    "expiration": "2025-05-15",
+    "brand": "nzOrigin",
+    "sales": 140,
+    "price": 39500,
+    "capacity": 60,
+    "servingSize": 1,
+    "discountRate": 0,
+    "discountPrice": 39500,
+    "categories": [
+      {
+        "categoryName": "혈행개선"
+      },
+      {
+        "categoryName": "항산화"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "지방",
+        "volume": "1.2g"
+      },
+      {
+        "ingredient": "비타민E",
+        "volume": "11mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://wiselycompany.com/web/product/big/202211/f265f71f1d6a27304392494cc9e3228b.jpg",
+    "descriptionImage": "https://wiselycompany.com/web/upload/NNEditor/20221110/HB-E1848FE185A1E186AFE18489E185B2E186B7E18486E185A1E18480E185B3E18482E185A6E18489E185B2E186B7-detail-info-1-pc.png",
+    "title": "뼈 신경 근육엔 칼슘마그네슘",
+    "content": "필수 영양소 칼슘&마그네슘 섭취로 뼈 건강 뿐만 아니라 신경과 근육 건강까지",
+    "expiration": "2024-04-08",
+    "brand": "Habitual",
+    "sales": 21,
+    "price": 6000,
+    "capacity": 60,
+    "servingSize": 1,
+    "discountRate": 20,
+    "discountPrice": 4800,
+    "categories": [
+      {
+        "categoryName": "관절_뼈_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "칼슘",
+        "volume": "300mg"
+      },
+      {
+        "ingredient": "마그네슘",
+        "volume": "150mg"
+      },
+      {
+        "ingredient": "비타민 D",
+        "volume": "0.01mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shop-phinf.pstatic.net/20220329_111/1648545666366msSI0_JPEG/49681501191494662_1427274453.jpg?type=m1000",
+    "descriptionImage": "https://shop-phinf.pstatic.net/20220615_163/1655281925940SOP7n_JPEG/얼라이브_원스데일리_포맨_860.jpeg?type=w860",
+    "title": "얼라이브 원스데일리 포맨",
+    "content": "한 알에 꽉채운 남성 종합 비타민",
+    "expiration": "2023-09-11",
+    "brand": "NaturalLife",
+    "sales": 0,
+    "price": 16000,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 0,
+    "discountPrice": 16000,
+    "categories": [
+      {
+        "categoryName": "항산화"
+      },
+      {
+        "categoryName": "피로"
+      },
+      {
+        "categoryName": "관절_뼈_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "비타민 B1",
+        "volume": "35mg"
+      },
+      {
+        "ingredient": "비타민 B2",
+        "volume": "30mg"
+      },
+      {
+        "ingredient": "나이아신",
+        "volume": "45mg"
+      },
+      {
+        "ingredient": "비오틴",
+        "volume": "0.1mg"
+      },
+      {
+        "ingredient": "판토텐산",
+        "volume": "65mg"
+      },
+      {
+        "ingredient": "엽산",
+        "volume": "0.3mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shop-phinf.pstatic.net/20221130_270/16697935365202sW0q_PNG/70929371313419066_1150800445.png?type=m510",
+    "descriptionImage": "https://shop-phinf.pstatic.net/20220818_281/1660793537129V95LR_JPEG/센트룸_프로바이오100.jpg?type=w860",
+    "title": "프로바이오 100",
+    "content": "장에서 시작되는 건강 밸런스, 하루 2캡슐로 깔끔하게!",
+    "expiration": "2023-01-09",
+    "brand": "Centrum",
+    "sales": 21,
+    "price": 25000,
+    "capacity": 60,
+    "servingSize": 2,
+    "discountRate": 10,
+    "discountPrice": 22500,
+    "categories": [
+      {
+        "categoryName": "장_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "탄수화물",
+        "volume": "1g"
+      },
+      {
+        "ingredient": "프로바이오틱스",
+        "volume": "100억 CFU"
+      }
+    ],
+    "starAvg": 3.3333
+  },
+  {
+    "thumbnail": "http://www.nzomall.com/shopimages/nzomall/005001000227.jpg?1633395838",
+    "descriptionImage": "http://nzoriginkr.cafe24.com/spec/nzorigin/nz_hyaluronicacid_60c_all.jpg",
+    "title": "데일리 모이스처 히알루론산",
+    "content": "촉촉한 피부를 위한 히알루론산 240mg 함유",
+    "expiration": "2027-06-02",
+    "brand": "nzOrigin",
+    "sales": 351,
+    "price": 35000,
+    "capacity": 60,
+    "servingSize": 2,
+    "discountRate": 20,
+    "discountPrice": 28000,
+    "categories": [
+      {
+        "categoryName": "피부"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "히알루론산",
+        "volume": "240mg"
+      },
+      {
+        "ingredient": "베타카로틴",
+        "volume": "3mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/pd/v2/6/2/3/9/1/2/NpBva/3354623912_B.jpg",
+    "descriptionImage": "https://gi.esmplus.com/ildongmall/ssinet/page/goodmorning_probiotics_01.jpg",
+    "title": "굿모닝 유산균",
+    "content": "현대인 장건강 100억 유산균",
+    "expiration": "2027-07-08",
+    "brand": "MYNI",
+    "sales": 433,
+    "price": 18800,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 5,
+    "discountPrice": 17860,
+    "categories": [
+      {
+        "categoryName": "장_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "프로바이오틱스 수",
+        "volume": "10,000,000,000CFU"
+      }
+    ],
+    "starAvg": 4
+  },
+  {
+    "thumbnail": "https://wiselycompany.com/web/product/big/202211/640c08e39e8af14eaab5aca258541402.jpg",
+    "descriptionImage": "https://wiselycompany.com/web/upload/NNEditor/20221110/HB-E1848BE185A1E18489E185B3E18490E185A1E1848CE185A1E186ABE18490E185B5E186AB-detail-info-1-pc.png",
+    "title": "눈건강 아스타잔틴",
+    "content": "지친 눈의 피로 개선에 도움을 주는 헤마토코쿠스 추출물 아낌없이",
+    "expiration": "2023-06-17",
+    "brand": "Habitual",
+    "sales": 32,
+    "price": 12000,
+    "capacity": 60,
+    "servingSize": 1,
+    "discountRate": 40,
+    "discountPrice": 7200,
+    "categories": [
+      {
+        "categoryName": "눈 건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "아스타잔틴",
+        "volume": "8mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shop-phinf.pstatic.net/20220126_251/1643181187950NfTWB_JPEG/44317076653749875_1819127791.jpg?type=o1000",
+    "descriptionImage": "https://shop-phinf.pstatic.net/20211213_139/1639379766932I97v0_JPEG/상세_솔가_아스타잔틴.jpg?type=w860",
+    "title": "아스타잔틴 10",
+    "content": "식약처 인정 기능성 원료 헤마토코쿠스 추출물",
+    "expiration": "2024-10-03",
+    "brand": "SOLGAR",
+    "sales": 52,
+    "price": 48000,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 25,
+    "discountPrice": 19200,
+    "categories": [
+      {
+        "categoryName": "눈_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "아스타잔틴",
+        "volume": "10mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shop-phinf.pstatic.net/20221130_52/16697935703862YTc5_PNG/70929405195070824_1625149330.png?type=m510",
+    "descriptionImage": "https://shop-phinf.pstatic.net/20221018_233/1666057366223wnJ54_JPEG/Men_new_Komar.jpg?type=w860",
+    "title": "맨 멀티 비타민 미네랄",
+    "content": "22가지 비타민과 미네랄으로 빈틈없는 기초 영양!",
+    "expiration": "2023-03-18",
+    "brand": "Centrum",
+    "sales": 41,
+    "price": 28000,
+    "capacity": 50,
+    "servingSize": 1,
+    "discountRate": 10,
+    "discountPrice": 25200,
+    "categories": [
+      {
+        "categoryName": "관절_뼈_건강"
+      },
+      {
+        "categoryName": "기타"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "마그네슘",
+        "volume": "84mg"
+      },
+      {
+        "ingredient": "비타민 A",
+        "volume": "1.15mg"
+      },
+      {
+        "ingredient": "비타민 D",
+        "volume": "10mg"
+      },
+      {
+        "ingredient": "비타민 B1",
+        "volume": "3.7mg"
+      },
+      {
+        "ingredient": "판토텐산",
+        "volume": "13.6mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "http://www.nzomall.com/shopimages/nzomall/005001000251.jpg?1634864236",
+    "descriptionImage": "http://nzoriginkr.cafe24.com/spec/nzorigin/nz_vitaminbgummy_60g_all.jpg",
+    "title": "에너지 비타민B-컴플렉스 구미",
+    "content": "하루종일 활력 넘치게 청포도 맛 에너지 구미!",
+    "expiration": "2026-04-07",
+    "brand": "nzOrigin",
+    "sales": 152,
+    "price": 30000,
+    "capacity": 60,
+    "servingSize": 2,
+    "discountRate": 10,
+    "discountPrice": 27000,
+    "categories": [
+      {
+        "categoryName": "피로"
+      },
+      {
+        "categoryName": "항산화"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "비타민C",
+        "volume": "200mg"
+      },
+      {
+        "ingredient": "나이아신",
+        "volume": "30mg"
+      },
+      {
+        "ingredient": "아연",
+        "volume": "5.2mg"
+      },
+      {
+        "ingredient": "비타민B2",
+        "volume": "1mg"
+      },
+      {
+        "ingredient": "비오틴",
+        "volume": "60mg"
+      }
+    ],
+    "starAvg": 5
+  },
+  {
+    "thumbnail": "https://shop-phinf.pstatic.net/20221130_218/1669793626812cyBMI_PNG/70929461610318262_700121651.png?type=m510",
+    "descriptionImage": "https://shop-phinf.pstatic.net/20220818_87/1660793264711J1DY1_JPEG/센트룸_멀티_구미.jpg?type=w860",
+    "title": "멀티 구미",
+    "content": "9가지 비타민 미네랄을 맛있는 구미 젤리로",
+    "expiration": "2023-12-19",
+    "brand": "Centrum",
+    "sales": 63,
+    "price": 22000,
+    "capacity": 80,
+    "servingSize": 2,
+    "discountRate": 0,
+    "discountPrice": 22000,
+    "categories": [
+      {
+        "categoryName": "눈_건강"
+      },
+      {
+        "categoryName": "항산화"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "비타민 C",
+        "volume": "28mg"
+      },
+      {
+        "ingredient": "비타민 A",
+        "volume": "6mg"
+      },
+      {
+        "ingredient": "비타민 D",
+        "volume": "0.1mg"
+      },
+      {
+        "ingredient": "나이아신",
+        "volume": "16mg"
+      },
+      {
+        "ingredient": "비오틴",
+        "volume": "0.24mg"
+      }
+    ],
+    "starAvg": 5
+  },
+  {
+    "thumbnail": "https://shop-phinf.pstatic.net/20220425_59/1650854530081dwuJM_JPEG/51990375772802388_204643008.jpg?type=m10000_10000_no_rotate",
+    "descriptionImage": "https://shop-phinf.pstatic.net/20230103_198/1672728931062lF4XC_JPEG/%EB%A7%88%EC%9D%B4%EB%8B%88_web_%EC%A0%9C%ED%92%88%EC%83%81%EC%84%B8_%EC%8B%9C%EB%84%88%EC%A7%80%EC%BD%94%ED%81%90%ED%85%90_v11.jpg?type=w860",
+    "title": "시너지 코큐텐",
+    "content": "자연발효공법으로 생산한 코엔자임 Q10",
+    "expiration": "2026-09-19",
+    "brand": "MYNI",
+    "sales": 15,
+    "price": 46000,
+    "capacity": 60,
+    "servingSize": 1,
+    "discountRate": 0,
+    "discountPrice": 46000,
+    "categories": [
+      {
+        "categoryName": "피로"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "비타민A",
+        "volume": "700mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shopping-phinf.pstatic.net/main_2611641/26116415524.20210224110336.jpg?type=f640",
+    "descriptionImage": "https://ssl.pstatic.net/imgshopping/spec/261/16/41/26116415524_0_20210224110911.jpg",
+    "title": "더블케어 루테인지아잔틴",
+    "content": "하루종일 바쁜 눈을 위해!",
+    "expiration": "2027-07-16",
+    "brand": "Roniewell",
+    "sales": 55,
+    "price": 54000,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 15,
+    "discountPrice": 45900,
+    "categories": [
+      {
+        "categoryName": "눈_건강"
+      },
+      {
+        "categoryName": "항산화"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "루테인",
+        "volume": "18.1818mg"
+      },
+      {
+        "ingredient": "아연",
+        "volume": "8.5mg"
+      },
+      {
+        "ingredient": "비타민 B2",
+        "volume": "1.4mg"
+      },
+      {
+        "ingredient": "나이아신",
+        "volume": "15mg"
+      },
+      {
+        "ingredient": "판토텐산",
+        "volume": "5mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shopping-phinf.pstatic.net/main_2701247/27012475524.20210503115608.jpg?type=f640",
+    "descriptionImage": "https://ssl.pstatic.net/imgshopping/spec/270/12/47/27012475524_0_20210503115836.jpg",
+    "title": "코랄칼슘마디",
+    "content": "소화흡수가 용이한 프리미엄 칼슘!",
+    "expiration": "2027-02-11",
+    "brand": "MYNI",
+    "sales": 9,
+    "price": 26000,
+    "capacity": 60,
+    "servingSize": 2,
+    "discountRate": 7,
+    "discountPrice": 24180,
+    "categories": [
+      {
+        "categoryName": "관절_뼈_건강"
+      },
+      {
+        "categoryName": "항산화"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "비타민D",
+        "volume": "25mg"
+      },
+      {
+        "ingredient": "비타민k",
+        "volume": "70mg"
+      },
+      {
+        "ingredient": "칼슘",
+        "volume": "600mg"
+      },
+      {
+        "ingredient": "마그네슘",
+        "volume": "300mg"
+      },
+      {
+        "ingredient": "망간",
+        "volume": "3mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shop-phinf.pstatic.net/20220810_88/1660099008342bo9dy_JPEG/61234904070522350_1661377666.jpg?type=o1000",
+    "descriptionImage": "https://shop-phinf.pstatic.net/20220810_17/1660101445657IvYUh_JPEG/비타민D_상세페이지(0810).jpg?type=w860",
+    "title": "VAP 면역마스터 비타민 D 5000IU",
+    "content": "일상 속 정상 면역이 필요한 모든 순간",
+    "expiration": "2023-2-09",
+    "brand": "NaturalLife",
+    "sales": 558,
+    "price": 26000,
+    "capacity": 60,
+    "servingSize": 1,
+    "discountRate": 0,
+    "discountPrice": 26000,
+    "categories": [
+      {
+        "categoryName": "관절_뼈_건강"
+      },
+      {
+        "categoryName": "항산화"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "비타민 D",
+        "volume": "0.125mg"
+      },
+      {
+        "ingredient": "아연",
+        "volume": "17mg"
+      },
+      {
+        "ingredient": "셀렌",
+        "volume": "0.01mg"
+      }
+    ],
+    "starAvg": 4.8
+  },
+  {
+    "thumbnail": "https://shop-phinf.pstatic.net/20220923_241/1663896174866tUw7n_JPEG/65031954581413851_289985287.jpg?type=o1000",
+    "descriptionImage": "https://shop-phinf.pstatic.net/20210315_199/1615766705739kzLwn_JPEG/NEW.jpg?type=w860",
+    "title": "비오틴 1000",
+    "content": "유태인 청결식품 코셔 파브르 인증 제품",
+    "expiration": "2024-09-26",
+    "brand": "SOLGAR",
+    "sales": 23,
+    "price": 23000,
+    "capacity": 50,
+    "servingSize": 1,
+    "discountRate": 0,
+    "discountPrice": 23000,
+    "categories": [
+      {
+        "categoryName": "기타"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "비오틴",
+        "volume": "1mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://wiselycompany.com/web/product/big/202211/ffda0b3359cb985e98b8200b50c56cc8.jpg",
+    "descriptionImage": "https://wiselycompany.com/web/upload/NNEditor/20221110/HB-E18491E185B3E18485E185A9E18491E185A9E186AFE18485E185B5E18489E185B3-detail-info-1-pc.png",
+    "title": "항산화 면역 프로폴리스",
+    "content": "항산화&면역 종합 케어를 위한 그린프로폴리스. 비타민E, 아연, 셀렌도 권장량 100%",
+    "expiration": "2024-01-29",
+    "brand": "Habitual",
+    "sales": 17,
+    "price": 8800,
+    "capacity": 60,
+    "servingSize": 1,
+    "discountRate": 0,
+    "discountPrice": 8800,
+    "categories": [
+      {
+        "categoryName": "항산화"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "총 폴라보노이드",
+        "volume": "17mg"
+      },
+      {
+        "ingredient": "비타민 E",
+        "volume": "11mg"
+      },
+      {
+        "ingredient": "아연",
+        "volume": "8.5mg"
+      },
+      {
+        "ingredient": "셀렌",
+        "volume": "0.55mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shopping-phinf.pstatic.net/main_1830918/18309187287.20220516141319.jpg?type=f640",
+    "descriptionImage": "https://shopping-phinf.pstatic.net/20220516_14_9/d23fb12b-747a-40e4-b7c9-918b5e36aeb7/1337642739.jpg",
+    "title": "10억 생 유산균 + 프리바이오틱스",
+    "content": "17종 유산균과 유익균의 먹이 복합 구성!",
+    "expiration": "2025-11-09",
+    "brand": "GNM",
+    "sales": 533,
+    "price": 28900,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 15,
+    "discountPrice": 24650,
+    "categories": [
+      {
+        "categoryName": "장_건강"
+      },
+      {
+        "categoryName": "항산화"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "프리바이오틱스",
+        "volume": "1,000,000,000mg"
+      },
+      {
+        "ingredient": "프락토올리고당",
+        "volume": "3300mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shop-phinf.pstatic.net/20221130_278/1669793514501vROtK_PNG/70929349303008784_2022068347.png?type=m510",
+    "descriptionImage": "https://shop-phinf.pstatic.net/20220818_170/1660793561687FCgIa_JPEG/센트룸_칼슘+D_미니.jpg?type=w860",
+    "title": "칼슘+D 미니",
+    "content": "7mm 미니 사이즈로 뼈 근육건강 집중케어",
+    "expiration": "2023-03-01",
+    "brand": "Centrum",
+    "sales": 17,
+    "price": 27000,
+    "capacity": 120,
+    "servingSize": 1,
+    "discountRate": 0,
+    "discountPrice": 27000,
+    "categories": [
+      {
+        "categoryName": "관절_뼈_건강"
+      },
+      {
+        "categoryName": "항산화"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "칼슘",
+        "volume": "600mg"
+      },
+      {
+        "ingredient": "마그네슘",
+        "volume": "100mg"
+      },
+      {
+        "ingredient": "비타민 D",
+        "volume": "0.15mg"
+      },
+      {
+        "ingredient": "구리",
+        "volume": "1mg"
+      },
+      {
+        "ingredient": "망간",
+        "volume": "1.8mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shopping-phinf.pstatic.net/main_2877420/28774205554.20210909130858.jpg?type=f640",
+    "descriptionImage": "https://shopping-phinf.pstatic.net/20220418_18_26/57f13918-77be-43d8-8e9c-ff4810d89594/-1106571236.jpg",
+    "title": "초임계 알티지오메가3 루테인지아잔틴",
+    "content": "혈행 건강은 물론, 눈 중심부 케어까지!",
+    "expiration": "2029-07-06",
+    "brand": "GNM",
+    "sales": 71,
+    "price": 67000,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 20,
+    "discountPrice": 53600,
+    "categories": [
+      {
+        "categoryName": "혈행개선"
+      },
+      {
+        "categoryName": "눈_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "비타민B",
+        "volume": "1.4mg"
+      },
+      {
+        "ingredient": "셀레늄",
+        "volume": "16.5mg"
+      },
+      {
+        "ingredient": "아연",
+        "volume": "2.55mg"
+      },
+      {
+        "ingredient": "루테인",
+        "volume": "18.18mg"
+      },
+      {
+        "ingredient": "EPA와 DHA의 합",
+        "volume": "600mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shopping-phinf.pstatic.net/main_2771808/27718081522.20220426184418.jpg?type=f640",
+    "descriptionImage": "https://shopping-phinf.pstatic.net/20221115_15_8/2bce1d55-a161-4218-9b38-0d0d6c40e636/2111288438.jpg",
+    "title": "칼슘 마그네슘 아연 비타민D",
+    "content": "하루 1정, 튼튼한 뼈 건강 습관",
+    "expiration": "2028-05-03",
+    "brand": "GNM",
+    "sales": 44,
+    "price": 30000,
+    "capacity": 90,
+    "servingSize": 1,
+    "discountRate": 5,
+    "discountPrice": 28500,
+    "categories": [
+      {
+        "categoryName": "관절_뼈_건강"
+      },
+      {
+        "categoryName": "항산화"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "칼슘",
+        "volume": "300mg"
+      },
+      {
+        "ingredient": "마그네슘",
+        "volume": "150mg"
+      },
+      {
+        "ingredient": "아연",
+        "volume": "8.5mg"
+      },
+      {
+        "ingredient": "비타민D",
+        "volume": "10mg"
+      },
+      {
+        "ingredient": "망간",
+        "volume": "0.9mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shop-phinf.pstatic.net/20221130_215/1669793616686V2QhS_PNG/70929451483387275_1425329560.png?type=m510",
+    "descriptionImage": "https://shop-phinf.pstatic.net/20220818_116/1660793315231MnzTu_JPEG/센트룸_에너지_B.jpg?type=w860",
+    "title": "에너지 B",
+    "content": "비타민 B군 400% 이상 고함량, 센트룸 에너지 B로 일상에 에너지를!",
+    "expiration": "2024-04-11",
+    "brand": "Centrum",
+    "sales": 32,
+    "price": 30000,
+    "capacity": 60,
+    "servingSize": 1,
+    "discountRate": 30,
+    "discountPrice": 21000,
+    "categories": [
+      {
+        "categoryName": "피로"
+      },
+      {
+        "categoryName": "뇌_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "비타민 B1",
+        "volume": "26.7mg"
+      },
+      {
+        "ingredient": "비타민 B2",
+        "volume": "30mg"
+      },
+      {
+        "ingredient": "나이아신",
+        "volume": "66.5mg"
+      },
+      {
+        "ingredient": "판토텐산",
+        "volume": "20mg"
+      },
+      {
+        "ingredient": "엽산",
+        "volume": "0.3mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shopping-phinf.pstatic.net/main_1420324/14203240859.20210531130737.jpg?type=f640",
+    "descriptionImage": "https://shopping-phinf.pstatic.net/20221028_18_23/32ca4be2-3676-4a89-9113-ba9adafa2612/1331011043.jpg",
+    "title": "코큐텐오메가3",
+    "content": "항산화,혈압,혈행을 한번에!",
+    "expiration": "2024-09-13",
+    "brand": "GNM",
+    "sales": 59,
+    "price": 55000,
+    "capacity": 90,
+    "servingSize": 1,
+    "discountRate": 20,
+    "discountPrice": 44000,
+    "categories": [
+      {
+        "categoryName": "항산화"
+      },
+      {
+        "categoryName": "피로"
+      },
+      {
+        "categoryName": "혈행개선"
+      },
+      {
+        "categoryName": "눈_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "지방",
+        "volume": "1g"
+      },
+      {
+        "ingredient": "코엔자임Q10",
+        "volume": "100mg"
+      },
+      {
+        "ingredient": "EPA와 DHA의 합",
+        "volume": "600mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shopping-phinf.pstatic.net/main_3014405/30144057619.20211216142223.jpg?type=f640",
+    "descriptionImage": "https://ssl.pstatic.net/imgshopping/spec/301/44/05/30144057619_0_20211216143911.jpg",
+    "title": "유기농 장케어 플랜",
+    "content": "온 가족을 위한 장 건강 관리!",
+    "expiration": "2025-04-13",
+    "brand": "Roniewell",
+    "sales": 100,
+    "price": 55000,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 15,
+    "discountPrice": 46750,
+    "categories": [
+      {
+        "categoryName": "장_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "탄수화물",
+        "volume": "2g"
+      },
+      {
+        "ingredient": "프로바이오틱스",
+        "volume": "1,000,000,000mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shopping-phinf.pstatic.net/main_2495192/24951925523.20201123164002.jpg?type=f640",
+    "descriptionImage": "https://ssl.pstatic.net/imgshopping/spec/249/51/92/24951925523_0_20201123163416.jpg",
+    "title": "에너지 케어 비타민B 콤플렉스",
+    "content": "지친 일상, 활력 full 충전",
+    "expiration": "2026-09-09",
+    "brand": "Roniewell",
+    "sales": 10,
+    "price": 27000,
+    "capacity": 60,
+    "servingSize": 3,
+    "discountRate": 5,
+    "discountPrice": 25650,
+    "categories": [
+      {
+        "categoryName": "항산화"
+      },
+      {
+        "categoryName": "피로"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "비타민 B1",
+        "volume": "1.2mg"
+      },
+      {
+        "ingredient": "비타민 B2",
+        "volume": "1.2mg"
+      },
+      {
+        "ingredient": "판토텐산",
+        "volume": "5mg"
+      },
+      {
+        "ingredient": "나이아신",
+        "volume": "15mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "http://www.nzomall.com/shopimages/nzomall/005001000025.jpg?1633395827",
+    "descriptionImage": "http://nzoriginkr.cafe24.com/spec/nzorigin/propolis1500_all.jpg",
+    "title": "프리미엄 프로폴리스 1500",
+    "content": "간편한 항산화 케어!",
+    "expiration": "2028-05-03",
+    "brand": "nzOrigin",
+    "sales": 421,
+    "price": 34000,
+    "capacity": 100,
+    "servingSize": 1,
+    "discountRate": 10,
+    "discountPrice": 30600,
+    "categories": [
+      {
+        "categoryName": "항산화"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "비타민E",
+        "volume": "6mg"
+      },
+      {
+        "ingredient": "플라보노이드",
+        "volume": "17mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shop-phinf.pstatic.net/20221124_15/1669253280600AO3XA_JPEG/70389108380289329_114103497.jpg?type=m1000",
+    "descriptionImage": "https://www.ildongmall.co.kr/data/editor/goods/220613/43accee98a11ed922e2ece0537bdfafd_114207.jpg",
+    "title": "아이케어 루테인지아잔틴",
+    "content": "하루 한알, 눈 건강의 시작!",
+    "expiration": "2024-03-02",
+    "brand": "MYNI",
+    "sales": 91,
+    "price": 25000,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 20,
+    "discountPrice": 20000,
+    "categories": [
+      {
+        "categoryName": "눈_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "지방",
+        "volume": "0.5g"
+      },
+      {
+        "ingredient": "루테인",
+        "volume": "20.1348mg"
+      },
+      {
+        "ingredient": "지아잔틴",
+        "volume": "3.8652mg"
+      },
+      {
+        "ingredient": "비타민E",
+        "volume": "11mg"
+      },
+      {
+        "ingredient": "아연",
+        "volume": "8.5mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shop-phinf.pstatic.net/20221130_124/1669793592530aqyU8_PNG/70929427343389765_2019724433.png?type=m510",
+    "descriptionImage": "https://shop-phinf.pstatic.net/20220823_265/1661228931652kzdzM_JPEG/센트룸_실버_맨.jpg?type=w860",
+    "title": "실버 맨 멀티 비타민 미네랄",
+    "content": "실버 남성을 위한 비타민A부터 Zinc 까지",
+    "expiration": "2023-03-07",
+    "brand": "Centrum",
+    "sales": 18,
+    "price": 28000,
+    "capacity": 50,
+    "servingSize": 1,
+    "discountRate": 20,
+    "discountPrice": 22400,
+    "categories": [
+      {
+        "categoryName": "눈_건강"
+      },
+      {
+        "categoryName": "관절_뼈_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "마그네슘",
+        "volume": "84mg"
+      },
+      {
+        "ingredient": "비타민 D",
+        "volume": "12.5mg"
+      },
+      {
+        "ingredient": "비타민 A",
+        "volume": "1.15mg"
+      },
+      {
+        "ingredient": "나이아신",
+        "volume": "16mg"
+      },
+      {
+        "ingredient": "판토텐산",
+        "volume": "13.6mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shopping-phinf.pstatic.net/main_1621665/16216655666.20200925152302.jpg?type=f640",
+    "descriptionImage": "https://shopping-phinf.pstatic.net/20220418_18_9/6a3f14e5-c483-4d2e-9b63-971ac50b70a2/-254493069.jpg",
+    "title": "건강한 간 밀크씨슬",
+    "content": "활력 넘치는 하루를 위해!",
+    "expiration": "2025-05-05",
+    "brand": "GNM",
+    "sales": 71,
+    "price": 44000,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 0,
+    "discountPrice": 44000,
+    "categories": [
+      {
+        "categoryName": "간_건강"
+      },
+      {
+        "categoryName": "항산화"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "비타민B",
+        "volume": "1.1mg"
+      },
+      {
+        "ingredient": "나이아신",
+        "volume": "13.5mg"
+      },
+      {
+        "ingredient": "판토텐산",
+        "volume": "4.6mg"
+      },
+      {
+        "ingredient": "실리마린",
+        "volume": "130mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shop-phinf.pstatic.net/20220810_143/1660093395530TQ1nC_JPEG/61229284242439682_1275230845.jpg?type=o1000",
+    "descriptionImage": "https://shop-phinf.pstatic.net/20220810_208/1660093471834NcMh4_PNG/쾌변마스터_차전자피_식이섬유_분할1(860px)_220809.png?type=w860",
+    "title": "VAP 쾌변마스터 차전자피 식이섬유",
+    "content": "하루를 가볍게 쾌변마스터",
+    "expiration": "2023-02-18",
+    "brand": "NaturalLife",
+    "sales": 419,
+    "price": 38000,
+    "capacity": 40,
+    "servingSize": 2,
+    "discountRate": 18,
+    "discountPrice": 31160,
+    "categories": [
+      {
+        "categoryName": "장_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "탄수화물",
+        "volume": "11g"
+      },
+      {
+        "ingredient": "단백질",
+        "volume": "1g"
+      },
+      {
+        "ingredient": "지방",
+        "volume": "1g"
+      },
+      {
+        "ingredient": "나트륨",
+        "volume": "10mg"
+      },
+      {
+        "ingredient": "식이섬유",
+        "volume": "8.5g"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shopping-phinf.pstatic.net/main_1159624/11596244491.20210409084819.jpg?type=f640",
+    "descriptionImage": "https://shopping-phinf.pstatic.net/20221128_13_13/e71a92cf-7686-41fd-ac6c-fa45f22675f0/-808035193.jpg",
+    "title": "루테인오메가3",
+    "content": "건조하고 침침한 눈을 위한 스마트한 조합!",
+    "expiration": "2027-02-12",
+    "brand": "GNM",
+    "sales": 81,
+    "price": 27000,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 0,
+    "discountPrice": 27000,
+    "categories": [
+      {
+        "categoryName": "눈_건강"
+      },
+      {
+        "categoryName": "항산화"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "비타민A",
+        "volume": "840mg"
+      },
+      {
+        "ingredient": "비타민E",
+        "volume": "13.2mg"
+      },
+      {
+        "ingredient": "EPA와 DHA의 합",
+        "volume": "600mg"
+      },
+      {
+        "ingredient": "루테인",
+        "volume": "20mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shop-phinf.pstatic.net/20221019_56/1666168413191mAWIp_JPEG/67304248026327471_1923396327.jpg?type=o1000",
+    "descriptionImage": "https://shop-phinf.pstatic.net/20211229_11/1640768418420en7KH_JPEG/chewable-plant_rtg-omega3_211105.jpg?type=w860",
+    "title": "소버스 츄어블 식물성 알티지 오메가3",
+    "content": "함량, 흡수율, 순도까지 엄선한 오렌지 맛 츄어블 캡슐",
+    "expiration": "2024-08-31",
+    "brand": "SOLGAR",
+    "sales": 57,
+    "price": 30000,
+    "capacity": 45,
+    "servingSize": 3,
+    "discountRate": 0,
+    "discountPrice": 30000,
+    "categories": [
+      {
+        "categoryName": "혈행개선"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "EPA & DHA",
+        "volume": "600mg"
+      },
+      {
+        "ingredient": "지방",
+        "volume": "2.5g"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "http://www.nzomall.com/shopimages/nzomall/005001000020.jpg?1633395827",
+    "descriptionImage": "http://nzoriginkr.cafe24.com/spec/nzorigin/vitafresh70gummies_all.jpg",
+    "title": "비타프레쉬 비타민 C&D 3000",
+    "content": "활력과 뼈 건강 듬뿍 오렌지 맛 비타민 구미!",
+    "expiration": "2025-04-07",
+    "brand": "nzOrigin",
+    "sales": 203,
+    "price": 19800,
+    "capacity": 70,
+    "servingSize": 3,
+    "discountRate": 45,
+    "discountPrice": 10890,
+    "categories": [
+      {
+        "categoryName": "피로"
+      },
+      {
+        "categoryName": "항산화"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "비타민C",
+        "volume": "240mg"
+      },
+      {
+        "ingredient": "비타민D",
+        "volume": "9mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://wiselycompany.com/web/product/big/202211/0ce75f6521dfdcd57548f031282964c0.jpg",
+    "descriptionImage": "https://wiselycompany.com/web/upload/NNEditor/20221117/hb-collagen-detail-info-1-pc.png",
+    "title": "콜라겐 히알루론산",
+    "content": "저분자 피쉬콜라겐 2500mg, 히알루론산과 비타민C까지 한 포에",
+    "expiration": "2025-07-07",
+    "brand": "Habitual",
+    "sales": 11,
+    "price": 13000,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 10,
+    "discountPrice": 11700,
+    "categories": [
+      {
+        "categoryName": "피부"
+      },
+      {
+        "categoryName": "기타"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "나트륨",
+        "volume": "5mg"
+      },
+      {
+        "ingredient": "비타민 C",
+        "volume": "100mg"
+      },
+      {
+        "ingredient": "탄수화물",
+        "volume": "1g"
+      },
+      {
+        "ingredient": "단백질",
+        "volume": "2g"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://image.nutrione.co.kr/upload/item/1000000421/1000000421_ITEM.png",
+    "descriptionImage": "https://www.nutrione.co.kr/data/editor/goods/200413/KakaoTalk_20200413_151049143_151203.jpg",
+    "title": "트리플엑스 127",
+    "content": "하루 한 정으로 3중 복합 기능성을 한번에!",
+    "expiration": "2025-01-31",
+    "brand": "NutrioneLife",
+    "sales": 50,
+    "price": 19700,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 20,
+    "discountPrice": 15760,
+    "categories": [
+      {
+        "categoryName": "항산화"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "비타민 C",
+        "volume": "1000mg"
+      },
+      {
+        "ingredient": "비타민 D",
+        "volume": "0.005mg"
+      },
+      {
+        "ingredient": "비오틴",
+        "volume": "0.03mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "http://www.nzomall.com/shopimages/nzomall/005001000166.jpg?1636609464",
+    "descriptionImage": "http://nzoriginkr.cafe24.com/spec/nzorigin/nz_sleepmate_30t_all.jpg",
+    "title": "굿데이 테아닌 로디올라",
+    "content": "하루 1정으로 스트레스로 인한 긴장없이 편하게!",
+    "expiration": "2026-06-06",
+    "brand": "nzOrigin",
+    "sales": 180,
+    "price": 28000,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 0,
+    "discountPrice": 28000,
+    "categories": [
+      {
+        "categoryName": "기타"
+      },
+      {
+        "categoryName": "피로"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "L-테아닌",
+        "volume": "200mg"
+      },
+      {
+        "ingredient": "로사빈",
+        "volume": "9mg"
+      },
+      {
+        "ingredient": "마그네슘",
+        "volume": "100mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shopping-phinf.pstatic.net/main_3483721/34837219618.20220922175227.jpg?type=f640",
+    "descriptionImage": "https://shopping-phinf.pstatic.net/20220922_17_0/79f135de-9040-473e-bd1b-442348a32609/470356170.jpg",
+    "title": "뽀얀 글루타치온 콜라겐",
+    "content": "빛나는 나를 위한 하루 한포!",
+    "expiration": "2025-03-22",
+    "brand": "MYNI",
+    "sales": 100,
+    "price": 30000,
+    "capacity": 15,
+    "servingSize": 1,
+    "discountRate": 10,
+    "discountPrice": 27000,
+    "categories": [
+      {
+        "categoryName": "기타"
+      },
+      {
+        "categoryName": "피부"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "나트륨",
+        "volume": "20mg"
+      },
+      {
+        "ingredient": "당류",
+        "volume": "8g"
+      },
+      {
+        "ingredient": "탄수화물",
+        "volume": "9g"
+      },
+      {
+        "ingredient": "단백질",
+        "volume": "1g"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://wiselycompany.com/web/product/big/202211/aab3324b811df3a6835a65eb0b01e5e9.jpg",
+    "descriptionImage": "https://wiselycompany.com/web/upload/NNEditor/20221107/HB_E18492E185A1E18485E185AEE18492E185A1E186ABE18491E185A2E186A820E18480E185B5E1848EE185A9E18480E185A5E186ABE18480E185A1E186BC_pc_2-crunch.png",
+    "title": "하루한팩 기초 건강",
+    "content": "한 팩으로 비타민&미네랄, EPA 및 DHA 함유유지, 칼슘 마그네슘 충전",
+    "expiration": "2024-04-02",
+    "brand": "Habitual",
+    "sales": 47,
+    "price": 7800,
+    "capacity": 14,
+    "servingSize": 1,
+    "discountRate": 0,
+    "discountPrice": 7800,
+    "categories": [
+      {
+        "categoryName": "눈_건강"
+      },
+      {
+        "categoryName": "혈행개선"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "EPA & DHA",
+        "volume": "600mg"
+      },
+      {
+        "ingredient": "비타민 D",
+        "volume": "0.01mg"
+      },
+      {
+        "ingredient": "비타민 E",
+        "volume": "11mg"
+      },
+      {
+        "ingredient": "비타민 K",
+        "volume": "0.7mg"
+      },
+      {
+        "ingredient": "비타민 C",
+        "volume": "100mg"
+      },
+      {
+        "ingredient": "아연",
+        "volume": "8.5mg"
+      },
+      {
+        "ingredient": "셀렌",
+        "volume": "0.55mg"
+      }
+    ],
+    "starAvg": 5
+  },
+  {
+    "thumbnail": "http://www.nzomall.com/shopimages/nzomall/005001000141.jpg?1588118050",
+    "descriptionImage": "http://nzoriginkr.cafe24.com/spec/nzorigin/nz_womensmulti60_all.jpg",
+    "title": "우먼즈 멀티비타민 앤 미네랄",
+    "content": "여성종합비타민",
+    "expiration": "2028-05-03",
+    "brand": "nzOrigin",
+    "sales": 99,
+    "price": 27000,
+    "capacity": 60,
+    "servingSize": 1,
+    "discountRate": 20,
+    "discountPrice": 21600,
+    "categories": [
+      {
+        "categoryName": "기타"
+      },
+      {
+        "categoryName": "항산화"
+      },
+      {
+        "categoryName": "피로"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "비타민C",
+        "volume": "81mg"
+      },
+      {
+        "ingredient": "비타민E",
+        "volume": "8.4mg"
+      },
+      {
+        "ingredient": "비타민B1",
+        "volume": "25mg"
+      },
+      {
+        "ingredient": "비타민D",
+        "volume": "20mg"
+      },
+      {
+        "ingredient": "망간",
+        "volume": "1.4mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://shopping-phinf.pstatic.net/main_2439392/24393928526.20201008151438.jpg?type=f640",
+    "descriptionImage": "https://ssl.pstatic.net/imgshopping/spec/243/93/92/24393928526_0_20201008152036.jpg",
+    "title": "리버케어 밀크씨슬 퓨어",
+    "content": "지치고 피로한 간을 위해!",
+    "expiration": "2026-07-18",
+    "brand": "Roniewell",
+    "sales": 109,
+    "price": 50000,
+    "capacity": 90,
+    "servingSize": 1,
+    "discountRate": 20,
+    "discountPrice": 40000,
+    "categories": [
+      {
+        "categoryName": "간_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "실리마린",
+        "volume": "130mg"
+      },
+      {
+        "ingredient": "비타민B2",
+        "volume": "1.4mg"
+      },
+      {
+        "ingredient": "나이아신",
+        "volume": "7.5mg"
+      },
+      {
+        "ingredient": "판토텐산",
+        "volume": "2.5mg"
+      },
+      {
+        "ingredient": "아연",
+        "volume": "4.3mg"
+      }
+    ],
+    "starAvg": 5
+  },
+  {
+    "thumbnail": "https://shop-phinf.pstatic.net/20221130_80/16697936441122CCnW_PNG/70929478918517534_492575242.png?type=m510",
+    "descriptionImage": "https://shop-phinf.pstatic.net/20220905_53/1662368582170g5fqw_JPEG/센트룸_이뮨부스터_PDP1.jpg?type=w860",
+    "title": "이뮨 부스터",
+    "content": "정상적인 면역기능부터 에너지까지, 비타민C 1000mg 함유",
+    "expiration": "2022-12-19",
+    "brand": "Centrum",
+    "sales": 469,
+    "price": 11000,
+    "capacity": 10,
+    "servingSize": 1,
+    "discountRate": 0,
+    "discountPrice": 11000,
+    "categories": [
+      {
+        "categoryName": "관절_뼈_건강"
+      },
+      {
+        "categoryName": "항산화"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "비타민 C",
+        "volume": "1000mg"
+      },
+      {
+        "ingredient": "비타민 B12",
+        "volume": "18mg"
+      },
+      {
+        "ingredient": "비타민 B6",
+        "volume": "6mg"
+      },
+      {
+        "ingredient": "나이아신",
+        "volume": "25mg"
+      },
+      {
+        "ingredient": "판토텐산",
+        "volume": "5mg"
+      }
+    ],
+    "starAvg": 4.5
+  },
+  {
+    "thumbnail": "https://image.nutrione.co.kr/upload/item/1000003467/1000003467_ITEM2022040845989.png",
+    "descriptionImage": "https://www.nutrione.co.kr/upload/images/BCC%EC%BD%94%EC%96%B4_GIFver_01.jpg",
+    "title": "관절연골 보스웰리아 BCC 에너지",
+    "content": "관절 연골 건강은 물론 에너지와 항산화까지",
+    "expiration": "2024-09-30",
+    "brand": "NutrioneLife",
+    "sales": 16,
+    "price": 73800,
+    "capacity": 30,
+    "servingSize": 1,
+    "discountRate": 30,
+    "discountPrice": 51660,
+    "categories": [
+      {
+        "categoryName": "관절_뼈_건강"
+      },
+      {
+        "categoryName": "항산화"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "몰리브덴",
+        "volume": "0.025mg"
+      },
+      {
+        "ingredient": "아연",
+        "volume": "8.5mg"
+      },
+      {
+        "ingredient": "비타민 B1",
+        "volume": "1.2mg"
+      },
+      {
+        "ingredient": "비타민 B6",
+        "volume": "1.5mg"
+      },
+      {
+        "ingredient": "판토텐산",
+        "volume": "5mg"
+      },
+      {
+        "ingredient": "구리",
+        "volume": "0.8mg"
+      }
+    ],
+    "starAvg": 0
+  },
+  {
+    "thumbnail": "https://wiselycompany.com/web/product/big/202211/7164024aa0bac8839810e4082c56eacd.jpg",
+    "descriptionImage": "https://wiselycompany.com/web/upload/NNEditor/20221026/hb-lacticAcidBacteria-detail-info-1-pc.png",
+    "title": "장 건강 유산균",
+    "content": "장 건강과 배변활동 원활에 도움을 줄 수 있는 100억 CFU 보장 유산균",
+    "expiration": "2023-05-30",
+    "brand": "Habitual",
+    "sales": 33,
+    "price": 12300,
+    "capacity": 120,
+    "servingSize": 1,
+    "discountRate": 0,
+    "discountPrice": 12300,
+    "categories": [
+      {
+        "categoryName": "장_건강"
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "ingredient": "프로바이오틱스",
+        "volume": "100억 CFU"
+      }
+    ],
+    "starAvg": 0
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "brand": "string",
+  "capacity": 0,
+  "categories": [
+    {
+      "categoryName": "string"
+    }
+  ],
+  "content": "string",
+  "descriptionImage": "string",
+  "discountPrice": 0,
+  "discountRate": 0,
+  "expiration": "string",
+  "nutritionFacts": [
+    {
+      "ingredient": "string",
+      "volume": "string"
+    }
+  ],
+  "price": 0,
+  "sales": 0,
+  "servingSize": 0,
+  "starAvg": 0,
+  "thumbnail": "string",
+  "title": "string"
+}
